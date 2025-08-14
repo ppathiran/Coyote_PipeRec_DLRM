@@ -1,0 +1,1854 @@
+Reading raw data=/local/home/yuzhuyu/train.txt
+Reading data from path=/local/home/yuzhuyu/train.txt
+Load 28651/2865039 (1%) Split: 5  Label True: 0  Stored: 0
+Load 57301/2865039 (2%) Split: 5  Label True: 0  Stored: 0
+Load 85952/2865039 (3%) Split: 5  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 5  Label True: 0  Stored: 0
+Load 143252/2865039 (5%) Split: 5  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 5  Label True: 0  Stored: 0
+Load 200553/2865039 (7%) Split: 5  Label True: 1  Stored: 1
+Load 229204/2865039 (8%) Split: 5  Label True: 0  Stored: 0
+Load 257854/2865039 (9%) Split: 5  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 5  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 5  Label True: 0  Stored: 0
+Load 343805/2865039 (12%) Split: 5  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 5  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 5  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 5  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 5  Label True: 1  Stored: 1
+Load 487057/2865039 (17%) Split: 5  Label True: 1  Stored: 1
+Load 515708/2865039 (18%) Split: 5  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 5  Label True: 0  Stored: 0
+Load 573008/2865039 (20%) Split: 5  Label True: 0  Stored: 0
+Load 601659/2865039 (21%) Split: 5  Label True: 0  Stored: 0
+Load 630309/2865039 (22%) Split: 5  Label True: 0  Stored: 0
+Load 658959/2865039 (23%) Split: 5  Label True: 0  Stored: 0
+Load 687610/2865039 (24%) Split: 5  Label True: 1  Stored: 1
+Load 716260/2865039 (25%) Split: 5  Label True: 0  Stored: 0
+Load 744911/2865039 (26%) Split: 5  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 5  Label True: 1  Stored: 1
+Load 802211/2865039 (28%) Split: 5  Label True: 0  Stored: 0
+Load 830862/2865039 (29%) Split: 5  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 5  Label True: 1  Stored: 1
+Load 888163/2865039 (31%) Split: 5  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 5  Label True: 1  Stored: 1
+Load 945463/2865039 (33%) Split: 5  Label True: 1  Stored: 1
+Load 974114/2865039 (34%) Split: 5  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 5  Label True: 0  Stored: 0
+Load 1031415/2865039 (36%) Split: 5  Label True: 0  Stored: 0
+Load 1060065/2865039 (37%) Split: 5  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 5  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 5  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 5  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 5  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 5  Label True: 1  Stored: 1
+Load 1231967/2865039 (43%) Split: 5  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 5  Label True: 1  Stored: 1
+Load 1289268/2865039 (45%) Split: 5  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 5  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 5  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 5  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 5  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 5  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 5  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 5  Label True: 1  Stored: 1
+Load 1518471/2865039 (53%) Split: 5  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 5  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 5  Label True: 1  Stored: 1
+Load 1604422/2865039 (56%) Split: 5  Label True: 0  Stored: 0
+Load 1633073/2865039 (57%) Split: 5  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 5  Label True: 1  Stored: 1
+Load 1690374/2865039 (59%) Split: 5  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 5  Label True: 0  Stored: 0
+Load 1747674/2865039 (61%) Split: 5  Label True: 0  Stored: 0
+Load 1776325/2865039 (62%) Split: 5  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 5  Label True: 0  Stored: 0
+Load 1833625/2865039 (64%) Split: 5  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 5  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 5  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 5  Label True: 0  Stored: 0
+Load 1948227/2865039 (68%) Split: 5  Label True: 1  Stored: 1
+Load 1976877/2865039 (69%) Split: 5  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 5  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 5  Label True: 1  Stored: 1
+Load 2062829/2865039 (72%) Split: 5  Label True: 1  Stored: 1
+Load 2091479/2865039 (73%) Split: 5  Label True: 0  Stored: 0
+Load 2120129/2865039 (74%) Split: 5  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 5  Label True: 1  Stored: 1
+Load 2177430/2865039 (76%) Split: 5  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 5  Label True: 1  Stored: 1
+Load 2234731/2865039 (78%) Split: 5  Label True: 0  Stored: 0
+Load 2263381/2865039 (79%) Split: 5  Label True: 0  Stored: 0
+Load 2292032/2865039 (80%) Split: 5  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 5  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 5  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 5  Label True: 0  Stored: 0
+Load 2406633/2865039 (84%) Split: 5  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 5  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 5  Label True: 0  Stored: 0
+Load 2492584/2865039 (87%) Split: 5  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 5  Label True: 1  Stored: 1
+Load 2549885/2865039 (89%) Split: 5  Label True: 1  Stored: 1
+Load 2578536/2865039 (90%) Split: 5  Label True: 0  Stored: 0
+Load 2607186/2865039 (91%) Split: 5  Label True: 0  Stored: 0
+Load 2635836/2865039 (92%) Split: 5  Label True: 1  Stored: 1
+Load 2664487/2865039 (93%) Split: 5  Label True: 1  Stored: 1
+Load 2693137/2865039 (94%) Split: 5  Label True: 0  Stored: 0
+Load 2721788/2865039 (95%) Split: 5  Label True: 0  Stored: 0
+Load 2750438/2865039 (96%) Split: 5  Label True: 0  Stored: 0
+Load 2779088/2865039 (97%) Split: 5  Label True: 0  Stored: 0
+Load 2807739/2865039 (98%) Split: 5  Label True: 1  Stored: 1
+Load 2836389/2865039 (99%) Split: 5  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 5!
+Load 28651/2865039 (1%) Split: 0  Label True: 1  Stored: 1
+Load 57301/2865039 (2%) Split: 0  Label True: 0  Stored: 0
+Load 85952/2865039 (3%) Split: 0  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 0  Label True: 0  Stored: 0
+Load 143252/2865039 (5%) Split: 0  Label True: 1  Stored: 1
+Load 171903/2865039 (6%) Split: 0  Label True: 0  Stored: 0
+Load 200553/2865039 (7%) Split: 0  Label True: 0  Stored: 0
+Load 229204/2865039 (8%) Split: 0  Label True: 1  Stored: 1
+Load 257854/2865039 (9%) Split: 0  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 0  Label True: 1  Stored: 1
+Load 315155/2865039 (11%) Split: 0  Label True: 1  Stored: 1
+Load 343805/2865039 (12%) Split: 0  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 0  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 0  Label True: 1  Stored: 1
+Load 429756/2865039 (15%) Split: 0  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 0  Label True: 0  Stored: 0
+Load 487057/2865039 (17%) Split: 0  Label True: 1  Stored: 1
+Load 515708/2865039 (18%) Split: 0  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 0  Label True: 1  Stored: 1
+Load 573008/2865039 (20%) Split: 0  Label True: 0  Stored: 0
+Load 601659/2865039 (21%) Split: 0  Label True: 1  Stored: 1
+Load 630309/2865039 (22%) Split: 0  Label True: 0  Stored: 0
+Load 658959/2865039 (23%) Split: 0  Label True: 0  Stored: 0
+Load 687610/2865039 (24%) Split: 0  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 0  Label True: 1  Stored: 1
+Load 744911/2865039 (26%) Split: 0  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 0  Label True: 0  Stored: 0
+Load 802211/2865039 (28%) Split: 0  Label True: 0  Stored: 0
+Load 830862/2865039 (29%) Split: 0  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 0  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 0  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 0  Label True: 1  Stored: 1
+Load 945463/2865039 (33%) Split: 0  Label True: 0  Stored: 0
+Load 974114/2865039 (34%) Split: 0  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 0  Label True: 1  Stored: 1
+Load 1031415/2865039 (36%) Split: 0  Label True: 0  Stored: 0
+Load 1060065/2865039 (37%) Split: 0  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 0  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 0  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 0  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 0  Label True: 1  Stored: 1
+Load 1203317/2865039 (42%) Split: 0  Label True: 0  Stored: 0
+Load 1231967/2865039 (43%) Split: 0  Label True: 1  Stored: 1
+Load 1260618/2865039 (44%) Split: 0  Label True: 1  Stored: 1
+Load 1289268/2865039 (45%) Split: 0  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 0  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 0  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 0  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 0  Label True: 1  Stored: 1
+Load 1432520/2865039 (50%) Split: 0  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 0  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 0  Label True: 0  Stored: 0
+Load 1518471/2865039 (53%) Split: 0  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 0  Label True: 1  Stored: 1
+Load 1575772/2865039 (55%) Split: 0  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 0  Label True: 0  Stored: 0
+Load 1633073/2865039 (57%) Split: 0  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 0  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 0  Label True: 1  Stored: 1
+Load 1719024/2865039 (60%) Split: 0  Label True: 1  Stored: 1
+Load 1747674/2865039 (61%) Split: 0  Label True: 1  Stored: 1
+Load 1776325/2865039 (62%) Split: 0  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 0  Label True: 0  Stored: 0
+Load 1833625/2865039 (64%) Split: 0  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 0  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 0  Label True: 1  Stored: 1
+Load 1919577/2865039 (67%) Split: 0  Label True: 0  Stored: 0
+Load 1948227/2865039 (68%) Split: 0  Label True: 1  Stored: 1
+Load 1976877/2865039 (69%) Split: 0  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 0  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 0  Label True: 0  Stored: 0
+Load 2062829/2865039 (72%) Split: 0  Label True: 1  Stored: 1
+Load 2091479/2865039 (73%) Split: 0  Label True: 1  Stored: 1
+Load 2120129/2865039 (74%) Split: 0  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 0  Label True: 0  Stored: 0
+Load 2177430/2865039 (76%) Split: 0  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 0  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 0  Label True: 1  Stored: 1
+Load 2263381/2865039 (79%) Split: 0  Label True: 1  Stored: 1
+Load 2292032/2865039 (80%) Split: 0  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 0  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 0  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 0  Label True: 0  Stored: 0
+Load 2406633/2865039 (84%) Split: 0  Label True: 1  Stored: 1
+Load 2435284/2865039 (85%) Split: 0  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 0  Label True: 1  Stored: 1
+Load 2492584/2865039 (87%) Split: 0  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 0  Label True: 0  Stored: 0
+Load 2549885/2865039 (89%) Split: 0  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 0  Label True: 1  Stored: 1
+Load 2607186/2865039 (91%) Split: 0  Label True: 1  Stored: 1
+Load 2635836/2865039 (92%) Split: 0  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 0  Label True: 0  Stored: 0
+Load 2693137/2865039 (94%) Split: 0  Label True: 0  Stored: 0
+Load 2721788/2865039 (95%) Split: 0  Label True: 0  Stored: 0
+Load 2750438/2865039 (96%) Split: 0  Label True: 0  Stored: 0
+Load 2779088/2865039 (97%) Split: 0  Label True: 0  Stored: 0
+Load 2807739/2865039 (98%) Split: 0  Label True: 1  Stored: 1
+Load 2836389/2865039 (99%) Split: 0  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 0!
+Load 28651/2865039 (1%) Split: 6  Label True: 0  Stored: 0
+Load 57301/2865039 (2%) Split: 6  Label True: 1  Stored: 1
+Load 85952/2865039 (3%) Split: 6  Label True: 1  Stored: 1
+Load 114602/2865039 (4%) Split: 6  Label True: 1  Stored: 1
+Load 143252/2865039 (5%) Split: 6  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 6  Label True: 1  Stored: 1
+Load 200553/2865039 (7%) Split: 6  Label True: 0  Stored: 0
+Load 229204/2865039 (8%) Split: 6  Label True: 0  Stored: 0
+Load 257854/2865039 (9%) Split: 6  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 6  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 6  Label True: 1  Stored: 1
+Load 343805/2865039 (12%) Split: 6  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 6  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 6  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 6  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 6  Label True: 0  Stored: 0
+Load 487057/2865039 (17%) Split: 6  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 6  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 6  Label True: 1  Stored: 1
+Load 573008/2865039 (20%) Split: 6  Label True: 0  Stored: 0
+Load 601659/2865039 (21%) Split: 6  Label True: 0  Stored: 0
+Load 630309/2865039 (22%) Split: 6  Label True: 1  Stored: 1
+Load 658959/2865039 (23%) Split: 6  Label True: 1  Stored: 1
+Load 687610/2865039 (24%) Split: 6  Label True: 1  Stored: 1
+Load 716260/2865039 (25%) Split: 6  Label True: 1  Stored: 1
+Load 744911/2865039 (26%) Split: 6  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 6  Label True: 0  Stored: 0
+Load 802211/2865039 (28%) Split: 6  Label True: 1  Stored: 1
+Load 830862/2865039 (29%) Split: 6  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 6  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 6  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 6  Label True: 0  Stored: 0
+Load 945463/2865039 (33%) Split: 6  Label True: 1  Stored: 1
+Load 974114/2865039 (34%) Split: 6  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 6  Label True: 0  Stored: 0
+Load 1031415/2865039 (36%) Split: 6  Label True: 1  Stored: 1
+Load 1060065/2865039 (37%) Split: 6  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 6  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 6  Label True: 1  Stored: 1
+Load 1146016/2865039 (40%) Split: 6  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 6  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 6  Label True: 1  Stored: 1
+Load 1231967/2865039 (43%) Split: 6  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 6  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 6  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 6  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 6  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 6  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 6  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 6  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 6  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 6  Label True: 0  Stored: 0
+Load 1518471/2865039 (53%) Split: 6  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 6  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 6  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 6  Label True: 0  Stored: 0
+Load 1633073/2865039 (57%) Split: 6  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 6  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 6  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 6  Label True: 1  Stored: 1
+Load 1747674/2865039 (61%) Split: 6  Label True: 0  Stored: 0
+Load 1776325/2865039 (62%) Split: 6  Label True: 1  Stored: 1
+Load 1804975/2865039 (63%) Split: 6  Label True: 0  Stored: 0
+Load 1833625/2865039 (64%) Split: 6  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 6  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 6  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 6  Label True: 1  Stored: 1
+Load 1948227/2865039 (68%) Split: 6  Label True: 0  Stored: 0
+Load 1976877/2865039 (69%) Split: 6  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 6  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 6  Label True: 1  Stored: 1
+Load 2062829/2865039 (72%) Split: 6  Label True: 0  Stored: 0
+Load 2091479/2865039 (73%) Split: 6  Label True: 0  Stored: 0
+Load 2120129/2865039 (74%) Split: 6  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 6  Label True: 1  Stored: 1
+Load 2177430/2865039 (76%) Split: 6  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 6  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 6  Label True: 0  Stored: 0
+Load 2263381/2865039 (79%) Split: 6  Label True: 0  Stored: 0
+Load 2292032/2865039 (80%) Split: 6  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 6  Label True: 1  Stored: 1
+Load 2349332/2865039 (82%) Split: 6  Label True: 1  Stored: 1
+Load 2377983/2865039 (83%) Split: 6  Label True: 1  Stored: 1
+Load 2406633/2865039 (84%) Split: 6  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 6  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 6  Label True: 0  Stored: 0
+Load 2492584/2865039 (87%) Split: 6  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 6  Label True: 1  Stored: 1
+Load 2549885/2865039 (89%) Split: 6  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 6  Label True: 0  Stored: 0
+Load 2607186/2865039 (91%) Split: 6  Label True: 1  Stored: 1
+Load 2635836/2865039 (92%) Split: 6  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 6  Label True: 1  Stored: 1
+Load 2693137/2865039 (94%) Split: 6  Label True: 1  Stored: 1
+Load 2721788/2865039 (95%) Split: 6  Label True: 0  Stored: 0
+Load 2750438/2865039 (96%) Split: 6  Label True: 1  Stored: 1
+Load 2779088/2865039 (97%) Split: 6  Label True: 1  Stored: 1
+Load 2807739/2865039 (98%) Split: 6  Label True: 0  Stored: 0
+Load 2836389/2865039 (99%) Split: 6  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 6!
+Load 28651/2865039 (1%) Split: 2  Label True: 0  Stored: 0
+Load 57301/2865039 (2%) Split: 2  Label True: 0  Stored: 0
+Load 85952/2865039 (3%) Split: 2  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 2  Label True: 0  Stored: 0
+Load 143252/2865039 (5%) Split: 2  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 2  Label True: 1  Stored: 1
+Load 200553/2865039 (7%) Split: 2  Label True: 1  Stored: 1
+Load 229204/2865039 (8%) Split: 2  Label True: 1  Stored: 1
+Load 257854/2865039 (9%) Split: 2  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 2  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 2  Label True: 0  Stored: 0
+Load 343805/2865039 (12%) Split: 2  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 2  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 2  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 2  Label True: 1  Stored: 1
+Load 458407/2865039 (16%) Split: 2  Label True: 1  Stored: 1
+Load 487057/2865039 (17%) Split: 2  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 2  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 2  Label True: 0  Stored: 0
+Load 573008/2865039 (20%) Split: 2  Label True: 1  Stored: 1
+Load 601659/2865039 (21%) Split: 2  Label True: 0  Stored: 0
+Load 630309/2865039 (22%) Split: 2  Label True: 1  Stored: 1
+Load 658959/2865039 (23%) Split: 2  Label True: 0  Stored: 0
+Load 687610/2865039 (24%) Split: 2  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 2  Label True: 0  Stored: 0
+Load 744911/2865039 (26%) Split: 2  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 2  Label True: 1  Stored: 1
+Load 802211/2865039 (28%) Split: 2  Label True: 0  Stored: 0
+Load 830862/2865039 (29%) Split: 2  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 2  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 2  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 2  Label True: 0  Stored: 0
+Load 945463/2865039 (33%) Split: 2  Label True: 1  Stored: 1
+Load 974114/2865039 (34%) Split: 2  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 2  Label True: 0  Stored: 0
+Load 1031415/2865039 (36%) Split: 2  Label True: 1  Stored: 1
+Load 1060065/2865039 (37%) Split: 2  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 2  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 2  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 2  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 2  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 2  Label True: 0  Stored: 0
+Load 1231967/2865039 (43%) Split: 2  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 2  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 2  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 2  Label True: 1  Stored: 1
+Load 1346569/2865039 (47%) Split: 2  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 2  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 2  Label True: 1  Stored: 1
+Load 1432520/2865039 (50%) Split: 2  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 2  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 2  Label True: 0  Stored: 0
+Load 1518471/2865039 (53%) Split: 2  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 2  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 2  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 2  Label True: 1  Stored: 1
+Load 1633073/2865039 (57%) Split: 2  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 2  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 2  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 2  Label True: 0  Stored: 0
+Load 1747674/2865039 (61%) Split: 2  Label True: 0  Stored: 0
+Load 1776325/2865039 (62%) Split: 2  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 2  Label True: 1  Stored: 1
+Load 1833625/2865039 (64%) Split: 2  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 2  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 2  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 2  Label True: 0  Stored: 0
+Load 1948227/2865039 (68%) Split: 2  Label True: 0  Stored: 0
+Load 1976877/2865039 (69%) Split: 2  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 2  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 2  Label True: 0  Stored: 0
+Load 2062829/2865039 (72%) Split: 2  Label True: 1  Stored: 1
+Load 2091479/2865039 (73%) Split: 2  Label True: 0  Stored: 0
+Load 2120129/2865039 (74%) Split: 2  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 2  Label True: 1  Stored: 1
+Load 2177430/2865039 (76%) Split: 2  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 2  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 2  Label True: 0  Stored: 0
+Load 2263381/2865039 (79%) Split: 2  Label True: 0  Stored: 0
+Load 2292032/2865039 (80%) Split: 2  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 2  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 2  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 2  Label True: 0  Stored: 0
+Load 2406633/2865039 (84%) Split: 2  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 2  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 2  Label True: 0  Stored: 0
+Load 2492584/2865039 (87%) Split: 2  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 2  Label True: 0  Stored: 0
+Load 2549885/2865039 (89%) Split: 2  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 2  Label True: 1  Stored: 1
+Load 2607186/2865039 (91%) Split: 2  Label True: 0  Stored: 0
+Load 2635836/2865039 (92%) Split: 2  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 2  Label True: 0  Stored: 0
+Load 2693137/2865039 (94%) Split: 2  Label True: 0  Stored: 0
+Load 2721788/2865039 (95%) Split: 2  Label True: 0  Stored: 0
+Load 2750438/2865039 (96%) Split: 2  Label True: 0  Stored: 0
+Load 2779088/2865039 (97%) Split: 2  Label True: 0  Stored: 0
+Load 2807739/2865039 (98%) Split: 2  Label True: 0  Stored: 0
+Load 2836389/2865039 (99%) Split: 2  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 2!
+Load 28651/2865038 (1%) Split: 15  Label True: 0  Stored: 0
+Load 57301/2865038 (2%) Split: 15  Label True: 0  Stored: 0
+Load 85952/2865038 (3%) Split: 15  Label True: 0  Stored: 0
+Load 114602/2865038 (4%) Split: 15  Label True: 0  Stored: 0
+Load 143252/2865038 (5%) Split: 15  Label True: 0  Stored: 0
+Load 171903/2865038 (6%) Split: 15  Label True: 0  Stored: 0
+Load 200553/2865038 (7%) Split: 15  Label True: 1  Stored: 1
+Load 229204/2865038 (8%) Split: 15  Label True: 0  Stored: 0
+Load 257854/2865038 (9%) Split: 15  Label True: 1  Stored: 1
+Load 286504/2865038 (10%) Split: 15  Label True: 0  Stored: 0
+Load 315155/2865038 (11%) Split: 15  Label True: 1  Stored: 1
+Load 343805/2865038 (12%) Split: 15  Label True: 0  Stored: 0
+Load 372455/2865038 (13%) Split: 15  Label True: 0  Stored: 0
+Load 401106/2865038 (14%) Split: 15  Label True: 1  Stored: 1
+Load 429756/2865038 (15%) Split: 15  Label True: 0  Stored: 0
+Load 458407/2865038 (16%) Split: 15  Label True: 0  Stored: 0
+Load 487057/2865038 (17%) Split: 15  Label True: 0  Stored: 0
+Load 515707/2865038 (18%) Split: 15  Label True: 1  Stored: 1
+Load 544358/2865038 (19%) Split: 15  Label True: 1  Stored: 1
+Load 573008/2865038 (20%) Split: 15  Label True: 0  Stored: 0
+Load 601658/2865038 (21%) Split: 15  Label True: 0  Stored: 0
+Load 630309/2865038 (22%) Split: 15  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 15  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 15  Label True: 1  Stored: 1
+Load 716260/2865038 (25%) Split: 15  Label True: 0  Stored: 0
+Load 744910/2865038 (26%) Split: 15  Label True: 0  Stored: 0
+Load 773561/2865038 (27%) Split: 15  Label True: 1  Stored: 1
+Load 802211/2865038 (28%) Split: 15  Label True: 1  Stored: 1
+Load 830862/2865038 (29%) Split: 15  Label True: 0  Stored: 0
+Load 859512/2865038 (30%) Split: 15  Label True: 0  Stored: 0
+Load 888162/2865038 (31%) Split: 15  Label True: 1  Stored: 1
+Load 916813/2865038 (32%) Split: 15  Label True: 0  Stored: 0
+Load 945463/2865038 (33%) Split: 15  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 15  Label True: 1  Stored: 1
+Load 1002764/2865038 (35%) Split: 15  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 15  Label True: 1  Stored: 1
+Load 1060065/2865038 (37%) Split: 15  Label True: 0  Stored: 0
+Load 1088715/2865038 (38%) Split: 15  Label True: 0  Stored: 0
+Load 1117365/2865038 (39%) Split: 15  Label True: 0  Stored: 0
+Load 1146016/2865038 (40%) Split: 15  Label True: 0  Stored: 0
+Load 1174666/2865038 (41%) Split: 15  Label True: 0  Stored: 0
+Load 1203316/2865038 (42%) Split: 15  Label True: 0  Stored: 0
+Load 1231967/2865038 (43%) Split: 15  Label True: 0  Stored: 0
+Load 1260617/2865038 (44%) Split: 15  Label True: 0  Stored: 0
+Load 1289268/2865038 (45%) Split: 15  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 15  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 15  Label True: 1  Stored: 1
+Load 1375219/2865038 (48%) Split: 15  Label True: 1  Stored: 1
+Load 1403869/2865038 (49%) Split: 15  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 15  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 15  Label True: 0  Stored: 0
+Load 1489820/2865038 (52%) Split: 15  Label True: 1  Stored: 1
+Load 1518471/2865038 (53%) Split: 15  Label True: 0  Stored: 0
+Load 1547121/2865038 (54%) Split: 15  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 15  Label True: 0  Stored: 0
+Load 1604422/2865038 (56%) Split: 15  Label True: 0  Stored: 0
+Load 1633072/2865038 (57%) Split: 15  Label True: 1  Stored: 1
+Load 1661723/2865038 (58%) Split: 15  Label True: 0  Stored: 0
+Load 1690373/2865038 (59%) Split: 15  Label True: 0  Stored: 0
+Load 1719023/2865038 (60%) Split: 15  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 15  Label True: 0  Stored: 0
+Load 1776324/2865038 (62%) Split: 15  Label True: 0  Stored: 0
+Load 1804974/2865038 (63%) Split: 15  Label True: 1  Stored: 1
+Load 1833625/2865038 (64%) Split: 15  Label True: 0  Stored: 0
+Load 1862275/2865038 (65%) Split: 15  Label True: 0  Stored: 0
+Load 1890926/2865038 (66%) Split: 15  Label True: 0  Stored: 0
+Load 1919576/2865038 (67%) Split: 15  Label True: 0  Stored: 0
+Load 1948226/2865038 (68%) Split: 15  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 15  Label True: 0  Stored: 0
+Load 2005527/2865038 (70%) Split: 15  Label True: 0  Stored: 0
+Load 2034177/2865038 (71%) Split: 15  Label True: 0  Stored: 0
+Load 2062828/2865038 (72%) Split: 15  Label True: 1  Stored: 1
+Load 2091478/2865038 (73%) Split: 15  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 15  Label True: 1  Stored: 1
+Load 2148779/2865038 (75%) Split: 15  Label True: 0  Stored: 0
+Load 2177429/2865038 (76%) Split: 15  Label True: 0  Stored: 0
+Load 2206080/2865038 (77%) Split: 15  Label True: 0  Stored: 0
+Load 2234730/2865038 (78%) Split: 15  Label True: 0  Stored: 0
+Load 2263381/2865038 (79%) Split: 15  Label True: 0  Stored: 0
+Load 2292031/2865038 (80%) Split: 15  Label True: 0  Stored: 0
+Load 2320681/2865038 (81%) Split: 15  Label True: 0  Stored: 0
+Load 2349332/2865038 (82%) Split: 15  Label True: 0  Stored: 0
+Load 2377982/2865038 (83%) Split: 15  Label True: 1  Stored: 1
+Load 2406632/2865038 (84%) Split: 15  Label True: 0  Stored: 0
+Load 2435283/2865038 (85%) Split: 15  Label True: 0  Stored: 0
+Load 2463933/2865038 (86%) Split: 15  Label True: 1  Stored: 1
+Load 2492584/2865038 (87%) Split: 15  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 15  Label True: 1  Stored: 1
+Load 2549884/2865038 (89%) Split: 15  Label True: 1  Stored: 1
+Load 2578535/2865038 (90%) Split: 15  Label True: 0  Stored: 0
+Load 2607185/2865038 (91%) Split: 15  Label True: 1  Stored: 1
+Load 2635835/2865038 (92%) Split: 15  Label True: 0  Stored: 0
+Load 2664486/2865038 (93%) Split: 15  Label True: 0  Stored: 0
+Load 2693136/2865038 (94%) Split: 15  Label True: 0  Stored: 0
+Load 2721787/2865038 (95%) Split: 15  Label True: 0  Stored: 0
+Load 2750437/2865038 (96%) Split: 15  Label True: 0  Stored: 0
+Load 2779087/2865038 (97%) Split: 15  Label True: 1  Stored: 1
+Load 2807738/2865038 (98%) Split: 15  Label True: 1  Stored: 1
+Load 2836388/2865038 (99%) Split: 15  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 15!
+Load 28651/2865039 (1%) Split: 8  Label True: 1  Stored: 1
+Load 57301/2865039 (2%) Split: 8  Label True: 0  Stored: 0
+Load 85952/2865039 (3%) Split: 8  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 8  Label True: 0  Stored: 0
+Load 143252/2865039 (5%) Split: 8  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 8  Label True: 0  Stored: 0
+Load 200553/2865039 (7%) Split: 8  Label True: 0  Stored: 0
+Load 229204/2865039 (8%) Split: 8  Label True: 0  Stored: 0
+Load 257854/2865039 (9%) Split: 8  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 8  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 8  Label True: 0  Stored: 0
+Load 343805/2865039 (12%) Split: 8  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 8  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 8  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 8  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 8  Label True: 0  Stored: 0
+Load 487057/2865039 (17%) Split: 8  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 8  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 8  Label True: 1  Stored: 1
+Load 573008/2865039 (20%) Split: 8  Label True: 0  Stored: 0
+Load 601659/2865039 (21%) Split: 8  Label True: 0  Stored: 0
+Load 630309/2865039 (22%) Split: 8  Label True: 0  Stored: 0
+Load 658959/2865039 (23%) Split: 8  Label True: 0  Stored: 0
+Load 687610/2865039 (24%) Split: 8  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 8  Label True: 0  Stored: 0
+Load 744911/2865039 (26%) Split: 8  Label True: 1  Stored: 1
+Load 773561/2865039 (27%) Split: 8  Label True: 0  Stored: 0
+Load 802211/2865039 (28%) Split: 8  Label True: 0  Stored: 0
+Load 830862/2865039 (29%) Split: 8  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 8  Label True: 1  Stored: 1
+Load 888163/2865039 (31%) Split: 8  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 8  Label True: 1  Stored: 1
+Load 945463/2865039 (33%) Split: 8  Label True: 0  Stored: 0
+Load 974114/2865039 (34%) Split: 8  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 8  Label True: 0  Stored: 0
+Load 1031415/2865039 (36%) Split: 8  Label True: 0  Stored: 0
+Load 1060065/2865039 (37%) Split: 8  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 8  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 8  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 8  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 8  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 8  Label True: 0  Stored: 0
+Load 1231967/2865039 (43%) Split: 8  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 8  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 8  Label True: 1  Stored: 1
+Load 1317918/2865039 (46%) Split: 8  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 8  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 8  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 8  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 8  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 8  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 8  Label True: 1  Stored: 1
+Load 1518471/2865039 (53%) Split: 8  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 8  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 8  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 8  Label True: 0  Stored: 0
+Load 1633073/2865039 (57%) Split: 8  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 8  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 8  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 8  Label True: 0  Stored: 0
+Load 1747674/2865039 (61%) Split: 8  Label True: 0  Stored: 0
+Load 1776325/2865039 (62%) Split: 8  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 8  Label True: 0  Stored: 0
+Load 1833625/2865039 (64%) Split: 8  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 8  Label True: 1  Stored: 1
+Load 1890926/2865039 (66%) Split: 8  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 8  Label True: 0  Stored: 0
+Load 1948227/2865039 (68%) Split: 8  Label True: 0  Stored: 0
+Load 1976877/2865039 (69%) Split: 8  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 8  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 8  Label True: 0  Stored: 0
+Load 2062829/2865039 (72%) Split: 8  Label True: 0  Stored: 0
+Load 2091479/2865039 (73%) Split: 8  Label True: 0  Stored: 0
+Load 2120129/2865039 (74%) Split: 8  Label True: 1  Stored: 1
+Load 2148780/2865039 (75%) Split: 8  Label True: 1  Stored: 1
+Load 2177430/2865039 (76%) Split: 8  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 8  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 8  Label True: 0  Stored: 0
+Load 2263381/2865039 (79%) Split: 8  Label True: 0  Stored: 0
+Load 2292032/2865039 (80%) Split: 8  Label True: 1  Stored: 1
+Load 2320682/2865039 (81%) Split: 8  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 8  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 8  Label True: 1  Stored: 1
+Load 2406633/2865039 (84%) Split: 8  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 8  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 8  Label True: 1  Stored: 1
+Load 2492584/2865039 (87%) Split: 8  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 8  Label True: 0  Stored: 0
+Load 2549885/2865039 (89%) Split: 8  Label True: 1  Stored: 1
+Load 2578536/2865039 (90%) Split: 8  Label True: 0  Stored: 0
+Load 2607186/2865039 (91%) Split: 8  Label True: 0  Stored: 0
+Load 2635836/2865039 (92%) Split: 8  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 8  Label True: 1  Stored: 1
+Load 2693137/2865039 (94%) Split: 8  Label True: 0  Stored: 0
+Load 2721788/2865039 (95%) Split: 8  Label True: 0  Stored: 0
+Load 2750438/2865039 (96%) Split: 8  Label True: 0  Stored: 0
+Load 2779088/2865039 (97%) Split: 8  Label True: 1  Stored: 1
+Load 2807739/2865039 (98%) Split: 8  Label True: 1  Stored: 1
+Load 2836389/2865039 (99%) Split: 8  Label True: 1  Stored: 1
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 8!
+Load 28651/2865039 (1%) Split: 7  Label True: 1  Stored: 1
+Load 57301/2865039 (2%) Split: 7  Label True: 0  Stored: 0
+Load 85952/2865039 (3%) Split: 7  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 7  Label True: 0  Stored: 0
+Load 143252/2865039 (5%) Split: 7  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 7  Label True: 1  Stored: 1
+Load 200553/2865039 (7%) Split: 7  Label True: 0  Stored: 0
+Load 229204/2865039 (8%) Split: 7  Label True: 0  Stored: 0
+Load 257854/2865039 (9%) Split: 7  Label True: 1  Stored: 1
+Load 286504/2865039 (10%) Split: 7  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 7  Label True: 1  Stored: 1
+Load 343805/2865039 (12%) Split: 7  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 7  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 7  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 7  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 7  Label True: 1  Stored: 1
+Load 487057/2865039 (17%) Split: 7  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 7  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 7  Label True: 1  Stored: 1
+Load 573008/2865039 (20%) Split: 7  Label True: 1  Stored: 1
+Load 601659/2865039 (21%) Split: 7  Label True: 0  Stored: 0
+Load 630309/2865039 (22%) Split: 7  Label True: 0  Stored: 0
+Load 658959/2865039 (23%) Split: 7  Label True: 1  Stored: 1
+Load 687610/2865039 (24%) Split: 7  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 7  Label True: 1  Stored: 1
+Load 744911/2865039 (26%) Split: 7  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 7  Label True: 0  Stored: 0
+Load 802211/2865039 (28%) Split: 7  Label True: 1  Stored: 1
+Load 830862/2865039 (29%) Split: 7  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 7  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 7  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 7  Label True: 1  Stored: 1
+Load 945463/2865039 (33%) Split: 7  Label True: 0  Stored: 0
+Load 974114/2865039 (34%) Split: 7  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 7  Label True: 0  Stored: 0
+Load 1031415/2865039 (36%) Split: 7  Label True: 0  Stored: 0
+Load 1060065/2865039 (37%) Split: 7  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 7  Label True: 1  Stored: 1
+Load 1117366/2865039 (39%) Split: 7  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 7  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 7  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 7  Label True: 0  Stored: 0
+Load 1231967/2865039 (43%) Split: 7  Label True: 1  Stored: 1
+Load 1260618/2865039 (44%) Split: 7  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 7  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 7  Label True: 1  Stored: 1
+Load 1346569/2865039 (47%) Split: 7  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 7  Label True: 1  Stored: 1
+Load 1403870/2865039 (49%) Split: 7  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 7  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 7  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 7  Label True: 0  Stored: 0
+Load 1518471/2865039 (53%) Split: 7  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 7  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 7  Label True: 1  Stored: 1
+Load 1604422/2865039 (56%) Split: 7  Label True: 1  Stored: 1
+Load 1633073/2865039 (57%) Split: 7  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 7  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 7  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 7  Label True: 1  Stored: 1
+Load 1747674/2865039 (61%) Split: 7  Label True: 0  Stored: 0
+Load 1776325/2865039 (62%) Split: 7  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 7  Label True: 0  Stored: 0
+Load 1833625/2865039 (64%) Split: 7  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 7  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 7  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 7  Label True: 0  Stored: 0
+Load 1948227/2865039 (68%) Split: 7  Label True: 0  Stored: 0
+Load 1976877/2865039 (69%) Split: 7  Label True: 1  Stored: 1
+Load 2005528/2865039 (70%) Split: 7  Label True: 1  Stored: 1
+Load 2034178/2865039 (71%) Split: 7  Label True: 0  Stored: 0
+Load 2062829/2865039 (72%) Split: 7  Label True: 1  Stored: 1
+Load 2091479/2865039 (73%) Split: 7  Label True: 0  Stored: 0
+Load 2120129/2865039 (74%) Split: 7  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 7  Label True: 0  Stored: 0
+Load 2177430/2865039 (76%) Split: 7  Label True: 1  Stored: 1
+Load 2206081/2865039 (77%) Split: 7  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 7  Label True: 0  Stored: 0
+Load 2263381/2865039 (79%) Split: 7  Label True: 0  Stored: 0
+Load 2292032/2865039 (80%) Split: 7  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 7  Label True: 1  Stored: 1
+Load 2349332/2865039 (82%) Split: 7  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 7  Label True: 0  Stored: 0
+Load 2406633/2865039 (84%) Split: 7  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 7  Label True: 1  Stored: 1
+Load 2463934/2865039 (86%) Split: 7  Label True: 1  Stored: 1
+Load 2492584/2865039 (87%) Split: 7  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 7  Label True: 1  Stored: 1
+Load 2549885/2865039 (89%) Split: 7  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 7  Label True: 0  Stored: 0
+Load 2607186/2865039 (91%) Split: 7  Label True: 0  Stored: 0
+Load 2635836/2865039 (92%) Split: 7  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 7  Label True: 0  Stored: 0
+Load 2693137/2865039 (94%) Split: 7  Label True: 1  Stored: 1
+Load 2721788/2865039 (95%) Split: 7  Label True: 1  Stored: 1
+Load 2750438/2865039 (96%) Split: 7  Label True: 0  Stored: 0
+Load 2779088/2865039 (97%) Split: 7  Label True: 1  Stored: 1
+Load 2807739/2865039 (98%) Split: 7  Label True: 0  Stored: 0
+Load 2836389/2865039 (99%) Split: 7  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 7!
+Load 28651/2865038 (1%) Split: 12  Label True: 0  Stored: 0
+Load 57301/2865038 (2%) Split: 12  Label True: 0  Stored: 0
+Load 85952/2865038 (3%) Split: 12  Label True: 0  Stored: 0
+Load 114602/2865038 (4%) Split: 12  Label True: 0  Stored: 0
+Load 143252/2865038 (5%) Split: 12  Label True: 0  Stored: 0
+Load 171903/2865038 (6%) Split: 12  Label True: 0  Stored: 0
+Load 200553/2865038 (7%) Split: 12  Label True: 0  Stored: 0
+Load 229204/2865038 (8%) Split: 12  Label True: 1  Stored: 1
+Load 257854/2865038 (9%) Split: 12  Label True: 0  Stored: 0
+Load 286504/2865038 (10%) Split: 12  Label True: 0  Stored: 0
+Load 315155/2865038 (11%) Split: 12  Label True: 0  Stored: 0
+Load 343805/2865038 (12%) Split: 12  Label True: 0  Stored: 0
+Load 372455/2865038 (13%) Split: 12  Label True: 1  Stored: 1
+Load 401106/2865038 (14%) Split: 12  Label True: 0  Stored: 0
+Load 429756/2865038 (15%) Split: 12  Label True: 1  Stored: 1
+Load 458407/2865038 (16%) Split: 12  Label True: 1  Stored: 1
+Load 487057/2865038 (17%) Split: 12  Label True: 0  Stored: 0
+Load 515707/2865038 (18%) Split: 12  Label True: 1  Stored: 1
+Load 544358/2865038 (19%) Split: 12  Label True: 0  Stored: 0
+Load 573008/2865038 (20%) Split: 12  Label True: 0  Stored: 0
+Load 601658/2865038 (21%) Split: 12  Label True: 0  Stored: 0
+Load 630309/2865038 (22%) Split: 12  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 12  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 12  Label True: 1  Stored: 1
+Load 716260/2865038 (25%) Split: 12  Label True: 0  Stored: 0
+Load 744910/2865038 (26%) Split: 12  Label True: 1  Stored: 1
+Load 773561/2865038 (27%) Split: 12  Label True: 0  Stored: 0
+Load 802211/2865038 (28%) Split: 12  Label True: 0  Stored: 0
+Load 830862/2865038 (29%) Split: 12  Label True: 1  Stored: 1
+Load 859512/2865038 (30%) Split: 12  Label True: 0  Stored: 0
+Load 888162/2865038 (31%) Split: 12  Label True: 0  Stored: 0
+Load 916813/2865038 (32%) Split: 12  Label True: 0  Stored: 0
+Load 945463/2865038 (33%) Split: 12  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 12  Label True: 1  Stored: 1
+Load 1002764/2865038 (35%) Split: 12  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 12  Label True: 0  Stored: 0
+Load 1060065/2865038 (37%) Split: 12  Label True: 0  Stored: 0
+Load 1088715/2865038 (38%) Split: 12  Label True: 0  Stored: 0
+Load 1117365/2865038 (39%) Split: 12  Label True: 0  Stored: 0
+Load 1146016/2865038 (40%) Split: 12  Label True: 1  Stored: 1
+Load 1174666/2865038 (41%) Split: 12  Label True: 1  Stored: 1
+Load 1203316/2865038 (42%) Split: 12  Label True: 1  Stored: 1
+Load 1231967/2865038 (43%) Split: 12  Label True: 1  Stored: 1
+Load 1260617/2865038 (44%) Split: 12  Label True: 0  Stored: 0
+Load 1289268/2865038 (45%) Split: 12  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 12  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 12  Label True: 0  Stored: 0
+Load 1375219/2865038 (48%) Split: 12  Label True: 0  Stored: 0
+Load 1403869/2865038 (49%) Split: 12  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 12  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 12  Label True: 1  Stored: 1
+Load 1489820/2865038 (52%) Split: 12  Label True: 0  Stored: 0
+Load 1518471/2865038 (53%) Split: 12  Label True: 0  Stored: 0
+Load 1547121/2865038 (54%) Split: 12  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 12  Label True: 0  Stored: 0
+Load 1604422/2865038 (56%) Split: 12  Label True: 0  Stored: 0
+Load 1633072/2865038 (57%) Split: 12  Label True: 0  Stored: 0
+Load 1661723/2865038 (58%) Split: 12  Label True: 0  Stored: 0
+Load 1690373/2865038 (59%) Split: 12  Label True: 0  Stored: 0
+Load 1719023/2865038 (60%) Split: 12  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 12  Label True: 0  Stored: 0
+Load 1776324/2865038 (62%) Split: 12  Label True: 0  Stored: 0
+Load 1804974/2865038 (63%) Split: 12  Label True: 0  Stored: 0
+Load 1833625/2865038 (64%) Split: 12  Label True: 1  Stored: 1
+Load 1862275/2865038 (65%) Split: 12  Label True: 0  Stored: 0
+Load 1890926/2865038 (66%) Split: 12  Label True: 1  Stored: 1
+Load 1919576/2865038 (67%) Split: 12  Label True: 1  Stored: 1
+Load 1948226/2865038 (68%) Split: 12  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 12  Label True: 1  Stored: 1
+Load 2005527/2865038 (70%) Split: 12  Label True: 0  Stored: 0
+Load 2034177/2865038 (71%) Split: 12  Label True: 0  Stored: 0
+Load 2062828/2865038 (72%) Split: 12  Label True: 1  Stored: 1
+Load 2091478/2865038 (73%) Split: 12  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 12  Label True: 0  Stored: 0
+Load 2148779/2865038 (75%) Split: 12  Label True: 0  Stored: 0
+Load 2177429/2865038 (76%) Split: 12  Label True: 0  Stored: 0
+Load 2206080/2865038 (77%) Split: 12  Label True: 1  Stored: 1
+Load 2234730/2865038 (78%) Split: 12  Label True: 1  Stored: 1
+Load 2263381/2865038 (79%) Split: 12  Label True: 0  Stored: 0
+Load 2292031/2865038 (80%) Split: 12  Label True: 0  Stored: 0
+Load 2320681/2865038 (81%) Split: 12  Label True: 0  Stored: 0
+Load 2349332/2865038 (82%) Split: 12  Label True: 0  Stored: 0
+Load 2377982/2865038 (83%) Split: 12  Label True: 0  Stored: 0
+Load 2406632/2865038 (84%) Split: 12  Label True: 0  Stored: 0
+Load 2435283/2865038 (85%) Split: 12  Label True: 0  Stored: 0
+Load 2463933/2865038 (86%) Split: 12  Label True: 0  Stored: 0
+Load 2492584/2865038 (87%) Split: 12  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 12  Label True: 0  Stored: 0
+Load 2549884/2865038 (89%) Split: 12  Label True: 0  Stored: 0
+Load 2578535/2865038 (90%) Split: 12  Label True: 0  Stored: 0
+Load 2607185/2865038 (91%) Split: 12  Label True: 1  Stored: 1
+Load 2635835/2865038 (92%) Split: 12  Label True: 0  Stored: 0
+Load 2664486/2865038 (93%) Split: 12  Label True: 0  Stored: 0
+Load 2693136/2865038 (94%) Split: 12  Label True: 0  Stored: 0
+Load 2721787/2865038 (95%) Split: 12  Label True: 0  Stored: 0
+Load 2750437/2865038 (96%) Split: 12  Label True: 0  Stored: 0
+Load 2779087/2865038 (97%) Split: 12  Label True: 0  Stored: 0
+Load 2807738/2865038 (98%) Split: 12  Label True: 1  Stored: 1
+Load 2836388/2865038 (99%) Split: 12  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 12!
+Load 28651/2865038 (1%) Split: 11  Label True: 1  Stored: 1
+Load 57301/2865038 (2%) Split: 11  Label True: 0  Stored: 0
+Load 85952/2865038 (3%) Split: 11  Label True: 0  Stored: 0
+Load 114602/2865038 (4%) Split: 11  Label True: 1  Stored: 1
+Load 143252/2865038 (5%) Split: 11  Label True: 0  Stored: 0
+Load 171903/2865038 (6%) Split: 11  Label True: 1  Stored: 1
+Load 200553/2865038 (7%) Split: 11  Label True: 0  Stored: 0
+Load 229204/2865038 (8%) Split: 11  Label True: 0  Stored: 0
+Load 257854/2865038 (9%) Split: 11  Label True: 0  Stored: 0
+Load 286504/2865038 (10%) Split: 11  Label True: 0  Stored: 0
+Load 315155/2865038 (11%) Split: 11  Label True: 0  Stored: 0
+Load 343805/2865038 (12%) Split: 11  Label True: 0  Stored: 0
+Load 372455/2865038 (13%) Split: 11  Label True: 0  Stored: 0
+Load 401106/2865038 (14%) Split: 11  Label True: 1  Stored: 1
+Load 429756/2865038 (15%) Split: 11  Label True: 0  Stored: 0
+Load 458407/2865038 (16%) Split: 11  Label True: 0  Stored: 0
+Load 487057/2865038 (17%) Split: 11  Label True: 1  Stored: 1
+Load 515707/2865038 (18%) Split: 11  Label True: 0  Stored: 0
+Load 544358/2865038 (19%) Split: 11  Label True: 0  Stored: 0
+Load 573008/2865038 (20%) Split: 11  Label True: 0  Stored: 0
+Load 601658/2865038 (21%) Split: 11  Label True: 0  Stored: 0
+Load 630309/2865038 (22%) Split: 11  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 11  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 11  Label True: 0  Stored: 0
+Load 716260/2865038 (25%) Split: 11  Label True: 1  Stored: 1
+Load 744910/2865038 (26%) Split: 11  Label True: 0  Stored: 0
+Load 773561/2865038 (27%) Split: 11  Label True: 0  Stored: 0
+Load 802211/2865038 (28%) Split: 11  Label True: 0  Stored: 0
+Load 830862/2865038 (29%) Split: 11  Label True: 1  Stored: 1
+Load 859512/2865038 (30%) Split: 11  Label True: 0  Stored: 0
+Load 888162/2865038 (31%) Split: 11  Label True: 0  Stored: 0
+Load 916813/2865038 (32%) Split: 11  Label True: 0  Stored: 0
+Load 945463/2865038 (33%) Split: 11  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 11  Label True: 0  Stored: 0
+Load 1002764/2865038 (35%) Split: 11  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 11  Label True: 1  Stored: 1
+Load 1060065/2865038 (37%) Split: 11  Label True: 0  Stored: 0
+Load 1088715/2865038 (38%) Split: 11  Label True: 1  Stored: 1
+Load 1117365/2865038 (39%) Split: 11  Label True: 0  Stored: 0
+Load 1146016/2865038 (40%) Split: 11  Label True: 0  Stored: 0
+Load 1174666/2865038 (41%) Split: 11  Label True: 0  Stored: 0
+Load 1203316/2865038 (42%) Split: 11  Label True: 0  Stored: 0
+Load 1231967/2865038 (43%) Split: 11  Label True: 0  Stored: 0
+Load 1260617/2865038 (44%) Split: 11  Label True: 0  Stored: 0
+Load 1289268/2865038 (45%) Split: 11  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 11  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 11  Label True: 1  Stored: 1
+Load 1375219/2865038 (48%) Split: 11  Label True: 1  Stored: 1
+Load 1403869/2865038 (49%) Split: 11  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 11  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 11  Label True: 0  Stored: 0
+Load 1489820/2865038 (52%) Split: 11  Label True: 0  Stored: 0
+Load 1518471/2865038 (53%) Split: 11  Label True: 0  Stored: 0
+Load 1547121/2865038 (54%) Split: 11  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 11  Label True: 1  Stored: 1
+Load 1604422/2865038 (56%) Split: 11  Label True: 0  Stored: 0
+Load 1633072/2865038 (57%) Split: 11  Label True: 0  Stored: 0
+Load 1661723/2865038 (58%) Split: 11  Label True: 1  Stored: 1
+Load 1690373/2865038 (59%) Split: 11  Label True: 0  Stored: 0
+Load 1719023/2865038 (60%) Split: 11  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 11  Label True: 0  Stored: 0
+Load 1776324/2865038 (62%) Split: 11  Label True: 0  Stored: 0
+Load 1804974/2865038 (63%) Split: 11  Label True: 0  Stored: 0
+Load 1833625/2865038 (64%) Split: 11  Label True: 0  Stored: 0
+Load 1862275/2865038 (65%) Split: 11  Label True: 0  Stored: 0
+Load 1890926/2865038 (66%) Split: 11  Label True: 0  Stored: 0
+Load 1919576/2865038 (67%) Split: 11  Label True: 0  Stored: 0
+Load 1948226/2865038 (68%) Split: 11  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 11  Label True: 0  Stored: 0
+Load 2005527/2865038 (70%) Split: 11  Label True: 1  Stored: 1
+Load 2034177/2865038 (71%) Split: 11  Label True: 0  Stored: 0
+Load 2062828/2865038 (72%) Split: 11  Label True: 0  Stored: 0
+Load 2091478/2865038 (73%) Split: 11  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 11  Label True: 0  Stored: 0
+Load 2148779/2865038 (75%) Split: 11  Label True: 0  Stored: 0
+Load 2177429/2865038 (76%) Split: 11  Label True: 0  Stored: 0
+Load 2206080/2865038 (77%) Split: 11  Label True: 0  Stored: 0
+Load 2234730/2865038 (78%) Split: 11  Label True: 0  Stored: 0
+Load 2263381/2865038 (79%) Split: 11  Label True: 0  Stored: 0
+Load 2292031/2865038 (80%) Split: 11  Label True: 0  Stored: 0
+Load 2320681/2865038 (81%) Split: 11  Label True: 0  Stored: 0
+Load 2349332/2865038 (82%) Split: 11  Label True: 1  Stored: 1
+Load 2377982/2865038 (83%) Split: 11  Label True: 0  Stored: 0
+Load 2406632/2865038 (84%) Split: 11  Label True: 0  Stored: 0
+Load 2435283/2865038 (85%) Split: 11  Label True: 0  Stored: 0
+Load 2463933/2865038 (86%) Split: 11  Label True: 0  Stored: 0
+Load 2492584/2865038 (87%) Split: 11  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 11  Label True: 1  Stored: 1
+Load 2549884/2865038 (89%) Split: 11  Label True: 0  Stored: 0
+Load 2578535/2865038 (90%) Split: 11  Label True: 0  Stored: 0
+Load 2607185/2865038 (91%) Split: 11  Label True: 0  Stored: 0
+Load 2635835/2865038 (92%) Split: 11  Label True: 1  Stored: 1
+Load 2664486/2865038 (93%) Split: 11  Label True: 1  Stored: 1
+Load 2693136/2865038 (94%) Split: 11  Label True: 0  Stored: 0
+Load 2721787/2865038 (95%) Split: 11  Label True: 0  Stored: 0
+Load 2750437/2865038 (96%) Split: 11  Label True: 0  Stored: 0
+Load 2779087/2865038 (97%) Split: 11  Label True: 0  Stored: 0
+Load 2807738/2865038 (98%) Split: 11  Label True: 0  Stored: 0
+Load 2836388/2865038 (99%) Split: 11  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 11!
+Load 28651/2865039 (1%) Split: 3  Label True: 0  Stored: 0
+Load 57301/2865039 (2%) Split: 3  Label True: 1  Stored: 1
+Load 85952/2865039 (3%) Split: 3  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 3  Label True: 1  Stored: 1
+Load 143252/2865039 (5%) Split: 3  Label True: 1  Stored: 1
+Load 171903/2865039 (6%) Split: 3  Label True: 0  Stored: 0
+Load 200553/2865039 (7%) Split: 3  Label True: 1  Stored: 1
+Load 229204/2865039 (8%) Split: 3  Label True: 0  Stored: 0
+Load 257854/2865039 (9%) Split: 3  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 3  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 3  Label True: 1  Stored: 1
+Load 343805/2865039 (12%) Split: 3  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 3  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 3  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 3  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 3  Label True: 0  Stored: 0
+Load 487057/2865039 (17%) Split: 3  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 3  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 3  Label True: 1  Stored: 1
+Load 573008/2865039 (20%) Split: 3  Label True: 0  Stored: 0
+Load 601659/2865039 (21%) Split: 3  Label True: 1  Stored: 1
+Load 630309/2865039 (22%) Split: 3  Label True: 0  Stored: 0
+Load 658959/2865039 (23%) Split: 3  Label True: 1  Stored: 1
+Load 687610/2865039 (24%) Split: 3  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 3  Label True: 0  Stored: 0
+Load 744911/2865039 (26%) Split: 3  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 3  Label True: 1  Stored: 1
+Load 802211/2865039 (28%) Split: 3  Label True: 0  Stored: 0
+Load 830862/2865039 (29%) Split: 3  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 3  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 3  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 3  Label True: 0  Stored: 0
+Load 945463/2865039 (33%) Split: 3  Label True: 0  Stored: 0
+Load 974114/2865039 (34%) Split: 3  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 3  Label True: 1  Stored: 1
+Load 1031415/2865039 (36%) Split: 3  Label True: 0  Stored: 0
+Load 1060065/2865039 (37%) Split: 3  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 3  Label True: 1  Stored: 1
+Load 1117366/2865039 (39%) Split: 3  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 3  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 3  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 3  Label True: 0  Stored: 0
+Load 1231967/2865039 (43%) Split: 3  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 3  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 3  Label True: 1  Stored: 1
+Load 1317918/2865039 (46%) Split: 3  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 3  Label True: 1  Stored: 1
+Load 1375219/2865039 (48%) Split: 3  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 3  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 3  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 3  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 3  Label True: 1  Stored: 1
+Load 1518471/2865039 (53%) Split: 3  Label True: 1  Stored: 1
+Load 1547122/2865039 (54%) Split: 3  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 3  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 3  Label True: 1  Stored: 1
+Load 1633073/2865039 (57%) Split: 3  Label True: 1  Stored: 1
+Load 1661723/2865039 (58%) Split: 3  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 3  Label True: 1  Stored: 1
+Load 1719024/2865039 (60%) Split: 3  Label True: 0  Stored: 0
+Load 1747674/2865039 (61%) Split: 3  Label True: 1  Stored: 1
+Load 1776325/2865039 (62%) Split: 3  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 3  Label True: 1  Stored: 1
+Load 1833625/2865039 (64%) Split: 3  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 3  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 3  Label True: 1  Stored: 1
+Load 1919577/2865039 (67%) Split: 3  Label True: 1  Stored: 1
+Load 1948227/2865039 (68%) Split: 3  Label True: 1  Stored: 1
+Load 1976877/2865039 (69%) Split: 3  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 3  Label True: 1  Stored: 1
+Load 2034178/2865039 (71%) Split: 3  Label True: 1  Stored: 1
+Load 2062829/2865039 (72%) Split: 3  Label True: 0  Stored: 0
+Load 2091479/2865039 (73%) Split: 3  Label True: 1  Stored: 1
+Load 2120129/2865039 (74%) Split: 3  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 3  Label True: 0  Stored: 0
+Load 2177430/2865039 (76%) Split: 3  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 3  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 3  Label True: 1  Stored: 1
+Load 2263381/2865039 (79%) Split: 3  Label True: 0  Stored: 0
+Load 2292032/2865039 (80%) Split: 3  Label True: 1  Stored: 1
+Load 2320682/2865039 (81%) Split: 3  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 3  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 3  Label True: 0  Stored: 0
+Load 2406633/2865039 (84%) Split: 3  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 3  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 3  Label True: 0  Stored: 0
+Load 2492584/2865039 (87%) Split: 3  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 3  Label True: 0  Stored: 0
+Load 2549885/2865039 (89%) Split: 3  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 3  Label True: 1  Stored: 1
+Load 2607186/2865039 (91%) Split: 3  Label True: 0  Stored: 0
+Load 2635836/2865039 (92%) Split: 3  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 3  Label True: 0  Stored: 0
+Load 2693137/2865039 (94%) Split: 3  Label True: 0  Stored: 0
+Load 2721788/2865039 (95%) Split: 3  Label True: 0  Stored: 0
+Load 2750438/2865039 (96%) Split: 3  Label True: 0  Stored: 0
+Load 2779088/2865039 (97%) Split: 3  Label True: 1  Stored: 1
+Load 2807739/2865039 (98%) Split: 3  Label True: 1  Stored: 1
+Load 2836389/2865039 (99%) Split: 3  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 3!
+Load 28651/2865039 (1%) Split: 4  Label True: 0  Stored: 0
+Load 57301/2865039 (2%) Split: 4  Label True: 1  Stored: 1
+Load 85952/2865039 (3%) Split: 4  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 4  Label True: 0  Stored: 0
+Load 143252/2865039 (5%) Split: 4  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 4  Label True: 1  Stored: 1
+Load 200553/2865039 (7%) Split: 4  Label True: 0  Stored: 0
+Load 229204/2865039 (8%) Split: 4  Label True: 1  Stored: 1
+Load 257854/2865039 (9%) Split: 4  Label True: 1  Stored: 1
+Load 286504/2865039 (10%) Split: 4  Label True: 0  Stored: 0
+Load 315155/2865039 (11%) Split: 4  Label True: 0  Stored: 0
+Load 343805/2865039 (12%) Split: 4  Label True: 0  Stored: 0
+Load 372456/2865039 (13%) Split: 4  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 4  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 4  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 4  Label True: 0  Stored: 0
+Load 487057/2865039 (17%) Split: 4  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 4  Label True: 0  Stored: 0
+Load 544358/2865039 (19%) Split: 4  Label True: 0  Stored: 0
+Load 573008/2865039 (20%) Split: 4  Label True: 1  Stored: 1
+Load 601659/2865039 (21%) Split: 4  Label True: 1  Stored: 1
+Load 630309/2865039 (22%) Split: 4  Label True: 0  Stored: 0
+Load 658959/2865039 (23%) Split: 4  Label True: 1  Stored: 1
+Load 687610/2865039 (24%) Split: 4  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 4  Label True: 0  Stored: 0
+Load 744911/2865039 (26%) Split: 4  Label True: 0  Stored: 0
+Load 773561/2865039 (27%) Split: 4  Label True: 1  Stored: 1
+Load 802211/2865039 (28%) Split: 4  Label True: 1  Stored: 1
+Load 830862/2865039 (29%) Split: 4  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 4  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 4  Label True: 1  Stored: 1
+Load 916813/2865039 (32%) Split: 4  Label True: 0  Stored: 0
+Load 945463/2865039 (33%) Split: 4  Label True: 0  Stored: 0
+Load 974114/2865039 (34%) Split: 4  Label True: 1  Stored: 1
+Load 1002764/2865039 (35%) Split: 4  Label True: 0  Stored: 0
+Load 1031415/2865039 (36%) Split: 4  Label True: 0  Stored: 0
+Load 1060065/2865039 (37%) Split: 4  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 4  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 4  Label True: 1  Stored: 1
+Load 1146016/2865039 (40%) Split: 4  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 4  Label True: 1  Stored: 1
+Load 1203317/2865039 (42%) Split: 4  Label True: 1  Stored: 1
+Load 1231967/2865039 (43%) Split: 4  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 4  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 4  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 4  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 4  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 4  Label True: 0  Stored: 0
+Load 1403870/2865039 (49%) Split: 4  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 4  Label True: 1  Stored: 1
+Load 1461170/2865039 (51%) Split: 4  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 4  Label True: 1  Stored: 1
+Load 1518471/2865039 (53%) Split: 4  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 4  Label True: 0  Stored: 0
+Load 1575772/2865039 (55%) Split: 4  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 4  Label True: 0  Stored: 0
+Load 1633073/2865039 (57%) Split: 4  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 4  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 4  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 4  Label True: 0  Stored: 0
+Load 1747674/2865039 (61%) Split: 4  Label True: 1  Stored: 1
+Load 1776325/2865039 (62%) Split: 4  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 4  Label True: 0  Stored: 0
+Load 1833625/2865039 (64%) Split: 4  Label True: 1  Stored: 1
+Load 1862276/2865039 (65%) Split: 4  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 4  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 4  Label True: 0  Stored: 0
+Load 1948227/2865039 (68%) Split: 4  Label True: 0  Stored: 0
+Load 1976877/2865039 (69%) Split: 4  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 4  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 4  Label True: 0  Stored: 0
+Load 2062829/2865039 (72%) Split: 4  Label True: 0  Stored: 0
+Load 2091479/2865039 (73%) Split: 4  Label True: 0  Stored: 0
+Load 2120129/2865039 (74%) Split: 4  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 4  Label True: 0  Stored: 0
+Load 2177430/2865039 (76%) Split: 4  Label True: 0  Stored: 0
+Load 2206081/2865039 (77%) Split: 4  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 4  Label True: 0  Stored: 0
+Load 2263381/2865039 (79%) Split: 4  Label True: 1  Stored: 1
+Load 2292032/2865039 (80%) Split: 4  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 4  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 4  Label True: 0  Stored: 0
+Load 2377983/2865039 (83%) Split: 4  Label True: 0  Stored: 0
+Load 2406633/2865039 (84%) Split: 4  Label True: 0  Stored: 0
+Load 2435284/2865039 (85%) Split: 4  Label True: 1  Stored: 1
+Load 2463934/2865039 (86%) Split: 4  Label True: 0  Stored: 0
+Load 2492584/2865039 (87%) Split: 4  Label True: 1  Stored: 1
+Load 2521235/2865039 (88%) Split: 4  Label True: 0  Stored: 0
+Load 2549885/2865039 (89%) Split: 4  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 4  Label True: 1  Stored: 1
+Load 2607186/2865039 (91%) Split: 4  Label True: 0  Stored: 0
+Load 2635836/2865039 (92%) Split: 4  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 4  Label True: 1  Stored: 1
+Load 2693137/2865039 (94%) Split: 4  Label True: 0  Stored: 0
+Load 2721788/2865039 (95%) Split: 4  Label True: 1  Stored: 1
+Load 2750438/2865039 (96%) Split: 4  Label True: 1  Stored: 1
+Load 2779088/2865039 (97%) Split: 4  Label True: 0  Stored: 0
+Load 2807739/2865039 (98%) Split: 4  Label True: 1  Stored: 1
+Load 2836389/2865039 (99%) Split: 4  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 4!
+Load 28651/2865038 (1%) Split: 14  Label True: 1  Stored: 1
+Load 57301/2865038 (2%) Split: 14  Label True: 1  Stored: 1
+Load 85952/2865038 (3%) Split: 14  Label True: 0  Stored: 0
+Load 114602/2865038 (4%) Split: 14  Label True: 0  Stored: 0
+Load 143252/2865038 (5%) Split: 14  Label True: 1  Stored: 1
+Load 171903/2865038 (6%) Split: 14  Label True: 1  Stored: 1
+Load 200553/2865038 (7%) Split: 14  Label True: 0  Stored: 0
+Load 229204/2865038 (8%) Split: 14  Label True: 1  Stored: 1
+Load 257854/2865038 (9%) Split: 14  Label True: 1  Stored: 1
+Load 286504/2865038 (10%) Split: 14  Label True: 0  Stored: 0
+Load 315155/2865038 (11%) Split: 14  Label True: 0  Stored: 0
+Load 343805/2865038 (12%) Split: 14  Label True: 1  Stored: 1
+Load 372455/2865038 (13%) Split: 14  Label True: 0  Stored: 0
+Load 401106/2865038 (14%) Split: 14  Label True: 0  Stored: 0
+Load 429756/2865038 (15%) Split: 14  Label True: 0  Stored: 0
+Load 458407/2865038 (16%) Split: 14  Label True: 0  Stored: 0
+Load 487057/2865038 (17%) Split: 14  Label True: 0  Stored: 0
+Load 515707/2865038 (18%) Split: 14  Label True: 0  Stored: 0
+Load 544358/2865038 (19%) Split: 14  Label True: 0  Stored: 0
+Load 573008/2865038 (20%) Split: 14  Label True: 1  Stored: 1
+Load 601658/2865038 (21%) Split: 14  Label True: 0  Stored: 0
+Load 630309/2865038 (22%) Split: 14  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 14  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 14  Label True: 0  Stored: 0
+Load 716260/2865038 (25%) Split: 14  Label True: 0  Stored: 0
+Load 744910/2865038 (26%) Split: 14  Label True: 1  Stored: 1
+Load 773561/2865038 (27%) Split: 14  Label True: 0  Stored: 0
+Load 802211/2865038 (28%) Split: 14  Label True: 0  Stored: 0
+Load 830862/2865038 (29%) Split: 14  Label True: 1  Stored: 1
+Load 859512/2865038 (30%) Split: 14  Label True: 0  Stored: 0
+Load 888162/2865038 (31%) Split: 14  Label True: 0  Stored: 0
+Load 916813/2865038 (32%) Split: 14  Label True: 1  Stored: 1
+Load 945463/2865038 (33%) Split: 14  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 14  Label True: 0  Stored: 0
+Load 1002764/2865038 (35%) Split: 14  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 14  Label True: 0  Stored: 0
+Load 1060065/2865038 (37%) Split: 14  Label True: 1  Stored: 1
+Load 1088715/2865038 (38%) Split: 14  Label True: 0  Stored: 0
+Load 1117365/2865038 (39%) Split: 14  Label True: 0  Stored: 0
+Load 1146016/2865038 (40%) Split: 14  Label True: 1  Stored: 1
+Load 1174666/2865038 (41%) Split: 14  Label True: 0  Stored: 0
+Load 1203316/2865038 (42%) Split: 14  Label True: 1  Stored: 1
+Load 1231967/2865038 (43%) Split: 14  Label True: 1  Stored: 1
+Load 1260617/2865038 (44%) Split: 14  Label True: 1  Stored: 1
+Load 1289268/2865038 (45%) Split: 14  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 14  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 14  Label True: 0  Stored: 0
+Load 1375219/2865038 (48%) Split: 14  Label True: 0  Stored: 0
+Load 1403869/2865038 (49%) Split: 14  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 14  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 14  Label True: 1  Stored: 1
+Load 1489820/2865038 (52%) Split: 14  Label True: 1  Stored: 1
+Load 1518471/2865038 (53%) Split: 14  Label True: 0  Stored: 0
+Load 1547121/2865038 (54%) Split: 14  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 14  Label True: 0  Stored: 0
+Load 1604422/2865038 (56%) Split: 14  Label True: 0  Stored: 0
+Load 1633072/2865038 (57%) Split: 14  Label True: 1  Stored: 1
+Load 1661723/2865038 (58%) Split: 14  Label True: 0  Stored: 0
+Load 1690373/2865038 (59%) Split: 14  Label True: 1  Stored: 1
+Load 1719023/2865038 (60%) Split: 14  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 14  Label True: 0  Stored: 0
+Load 1776324/2865038 (62%) Split: 14  Label True: 0  Stored: 0
+Load 1804974/2865038 (63%) Split: 14  Label True: 0  Stored: 0
+Load 1833625/2865038 (64%) Split: 14  Label True: 0  Stored: 0
+Load 1862275/2865038 (65%) Split: 14  Label True: 1  Stored: 1
+Load 1890926/2865038 (66%) Split: 14  Label True: 0  Stored: 0
+Load 1919576/2865038 (67%) Split: 14  Label True: 0  Stored: 0
+Load 1948226/2865038 (68%) Split: 14  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 14  Label True: 0  Stored: 0
+Load 2005527/2865038 (70%) Split: 14  Label True: 1  Stored: 1
+Load 2034177/2865038 (71%) Split: 14  Label True: 1  Stored: 1
+Load 2062828/2865038 (72%) Split: 14  Label True: 0  Stored: 0
+Load 2091478/2865038 (73%) Split: 14  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 14  Label True: 0  Stored: 0
+Load 2148779/2865038 (75%) Split: 14  Label True: 0  Stored: 0
+Load 2177429/2865038 (76%) Split: 14  Label True: 0  Stored: 0
+Load 2206080/2865038 (77%) Split: 14  Label True: 0  Stored: 0
+Load 2234730/2865038 (78%) Split: 14  Label True: 0  Stored: 0
+Load 2263381/2865038 (79%) Split: 14  Label True: 1  Stored: 1
+Load 2292031/2865038 (80%) Split: 14  Label True: 0  Stored: 0
+Load 2320681/2865038 (81%) Split: 14  Label True: 1  Stored: 1
+Load 2349332/2865038 (82%) Split: 14  Label True: 1  Stored: 1
+Load 2377982/2865038 (83%) Split: 14  Label True: 1  Stored: 1
+Load 2406632/2865038 (84%) Split: 14  Label True: 0  Stored: 0
+Load 2435283/2865038 (85%) Split: 14  Label True: 0  Stored: 0
+Load 2463933/2865038 (86%) Split: 14  Label True: 1  Stored: 1
+Load 2492584/2865038 (87%) Split: 14  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 14  Label True: 0  Stored: 0
+Load 2549884/2865038 (89%) Split: 14  Label True: 0  Stored: 0
+Load 2578535/2865038 (90%) Split: 14  Label True: 1  Stored: 1
+Load 2607185/2865038 (91%) Split: 14  Label True: 0  Stored: 0
+Load 2635835/2865038 (92%) Split: 14  Label True: 0  Stored: 0
+Load 2664486/2865038 (93%) Split: 14  Label True: 0  Stored: 0
+Load 2693136/2865038 (94%) Split: 14  Label True: 1  Stored: 1
+Load 2721787/2865038 (95%) Split: 14  Label True: 0  Stored: 0
+Load 2750437/2865038 (96%) Split: 14  Label True: 0  Stored: 0
+Load 2779087/2865038 (97%) Split: 14  Label True: 0  Stored: 0
+Load 2807738/2865038 (98%) Split: 14  Label True: 0  Stored: 0
+Load 2836388/2865038 (99%) Split: 14  Label True: 1  Stored: 1
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 14!
+Load 28651/2865039 (1%) Split: 1  Label True: 0  Stored: 0
+Load 57301/2865039 (2%) Split: 1  Label True: 0  Stored: 0
+Load 85952/2865039 (3%) Split: 1  Label True: 0  Stored: 0
+Load 114602/2865039 (4%) Split: 1  Label True: 1  Stored: 1
+Load 143252/2865039 (5%) Split: 1  Label True: 0  Stored: 0
+Load 171903/2865039 (6%) Split: 1  Label True: 0  Stored: 0
+Load 200553/2865039 (7%) Split: 1  Label True: 0  Stored: 0
+Load 229204/2865039 (8%) Split: 1  Label True: 1  Stored: 1
+Load 257854/2865039 (9%) Split: 1  Label True: 0  Stored: 0
+Load 286504/2865039 (10%) Split: 1  Label True: 1  Stored: 1
+Load 315155/2865039 (11%) Split: 1  Label True: 0  Stored: 0
+Load 343805/2865039 (12%) Split: 1  Label True: 1  Stored: 1
+Load 372456/2865039 (13%) Split: 1  Label True: 0  Stored: 0
+Load 401106/2865039 (14%) Split: 1  Label True: 0  Stored: 0
+Load 429756/2865039 (15%) Split: 1  Label True: 0  Stored: 0
+Load 458407/2865039 (16%) Split: 1  Label True: 0  Stored: 0
+Load 487057/2865039 (17%) Split: 1  Label True: 0  Stored: 0
+Load 515708/2865039 (18%) Split: 1  Label True: 1  Stored: 1
+Load 544358/2865039 (19%) Split: 1  Label True: 0  Stored: 0
+Load 573008/2865039 (20%) Split: 1  Label True: 0  Stored: 0
+Load 601659/2865039 (21%) Split: 1  Label True: 1  Stored: 1
+Load 630309/2865039 (22%) Split: 1  Label True: 1  Stored: 1
+Load 658959/2865039 (23%) Split: 1  Label True: 0  Stored: 0
+Load 687610/2865039 (24%) Split: 1  Label True: 0  Stored: 0
+Load 716260/2865039 (25%) Split: 1  Label True: 0  Stored: 0
+Load 744911/2865039 (26%) Split: 1  Label True: 1  Stored: 1
+Load 773561/2865039 (27%) Split: 1  Label True: 0  Stored: 0
+Load 802211/2865039 (28%) Split: 1  Label True: 0  Stored: 0
+Load 830862/2865039 (29%) Split: 1  Label True: 0  Stored: 0
+Load 859512/2865039 (30%) Split: 1  Label True: 0  Stored: 0
+Load 888163/2865039 (31%) Split: 1  Label True: 0  Stored: 0
+Load 916813/2865039 (32%) Split: 1  Label True: 0  Stored: 0
+Load 945463/2865039 (33%) Split: 1  Label True: 0  Stored: 0
+Load 974114/2865039 (34%) Split: 1  Label True: 0  Stored: 0
+Load 1002764/2865039 (35%) Split: 1  Label True: 1  Stored: 1
+Load 1031415/2865039 (36%) Split: 1  Label True: 1  Stored: 1
+Load 1060065/2865039 (37%) Split: 1  Label True: 0  Stored: 0
+Load 1088715/2865039 (38%) Split: 1  Label True: 0  Stored: 0
+Load 1117366/2865039 (39%) Split: 1  Label True: 0  Stored: 0
+Load 1146016/2865039 (40%) Split: 1  Label True: 0  Stored: 0
+Load 1174666/2865039 (41%) Split: 1  Label True: 0  Stored: 0
+Load 1203317/2865039 (42%) Split: 1  Label True: 0  Stored: 0
+Load 1231967/2865039 (43%) Split: 1  Label True: 0  Stored: 0
+Load 1260618/2865039 (44%) Split: 1  Label True: 0  Stored: 0
+Load 1289268/2865039 (45%) Split: 1  Label True: 0  Stored: 0
+Load 1317918/2865039 (46%) Split: 1  Label True: 0  Stored: 0
+Load 1346569/2865039 (47%) Split: 1  Label True: 0  Stored: 0
+Load 1375219/2865039 (48%) Split: 1  Label True: 1  Stored: 1
+Load 1403870/2865039 (49%) Split: 1  Label True: 0  Stored: 0
+Load 1432520/2865039 (50%) Split: 1  Label True: 0  Stored: 0
+Load 1461170/2865039 (51%) Split: 1  Label True: 0  Stored: 0
+Load 1489821/2865039 (52%) Split: 1  Label True: 0  Stored: 0
+Load 1518471/2865039 (53%) Split: 1  Label True: 0  Stored: 0
+Load 1547122/2865039 (54%) Split: 1  Label True: 1  Stored: 1
+Load 1575772/2865039 (55%) Split: 1  Label True: 0  Stored: 0
+Load 1604422/2865039 (56%) Split: 1  Label True: 1  Stored: 1
+Load 1633073/2865039 (57%) Split: 1  Label True: 0  Stored: 0
+Load 1661723/2865039 (58%) Split: 1  Label True: 0  Stored: 0
+Load 1690374/2865039 (59%) Split: 1  Label True: 0  Stored: 0
+Load 1719024/2865039 (60%) Split: 1  Label True: 0  Stored: 0
+Load 1747674/2865039 (61%) Split: 1  Label True: 0  Stored: 0
+Load 1776325/2865039 (62%) Split: 1  Label True: 0  Stored: 0
+Load 1804975/2865039 (63%) Split: 1  Label True: 1  Stored: 1
+Load 1833625/2865039 (64%) Split: 1  Label True: 0  Stored: 0
+Load 1862276/2865039 (65%) Split: 1  Label True: 0  Stored: 0
+Load 1890926/2865039 (66%) Split: 1  Label True: 0  Stored: 0
+Load 1919577/2865039 (67%) Split: 1  Label True: 1  Stored: 1
+Load 1948227/2865039 (68%) Split: 1  Label True: 0  Stored: 0
+Load 1976877/2865039 (69%) Split: 1  Label True: 0  Stored: 0
+Load 2005528/2865039 (70%) Split: 1  Label True: 0  Stored: 0
+Load 2034178/2865039 (71%) Split: 1  Label True: 1  Stored: 1
+Load 2062829/2865039 (72%) Split: 1  Label True: 0  Stored: 0
+Load 2091479/2865039 (73%) Split: 1  Label True: 1  Stored: 1
+Load 2120129/2865039 (74%) Split: 1  Label True: 0  Stored: 0
+Load 2148780/2865039 (75%) Split: 1  Label True: 0  Stored: 0
+Load 2177430/2865039 (76%) Split: 1  Label True: 1  Stored: 1
+Load 2206081/2865039 (77%) Split: 1  Label True: 0  Stored: 0
+Load 2234731/2865039 (78%) Split: 1  Label True: 1  Stored: 1
+Load 2263381/2865039 (79%) Split: 1  Label True: 1  Stored: 1
+Load 2292032/2865039 (80%) Split: 1  Label True: 0  Stored: 0
+Load 2320682/2865039 (81%) Split: 1  Label True: 0  Stored: 0
+Load 2349332/2865039 (82%) Split: 1  Label True: 1  Stored: 1
+Load 2377983/2865039 (83%) Split: 1  Label True: 1  Stored: 1
+Load 2406633/2865039 (84%) Split: 1  Label True: 1  Stored: 1
+Load 2435284/2865039 (85%) Split: 1  Label True: 0  Stored: 0
+Load 2463934/2865039 (86%) Split: 1  Label True: 0  Stored: 0
+Load 2492584/2865039 (87%) Split: 1  Label True: 0  Stored: 0
+Load 2521235/2865039 (88%) Split: 1  Label True: 0  Stored: 0
+Load 2549885/2865039 (89%) Split: 1  Label True: 0  Stored: 0
+Load 2578536/2865039 (90%) Split: 1  Label True: 0  Stored: 0
+Load 2607186/2865039 (91%) Split: 1  Label True: 1  Stored: 1
+Load 2635836/2865039 (92%) Split: 1  Label True: 0  Stored: 0
+Load 2664487/2865039 (93%) Split: 1  Label True: 1  Stored: 1
+Load 2693137/2865039 (94%) Split: 1  Label True: 1  Stored: 1
+Load 2721788/2865039 (95%) Split: 1  Label True: 1  Stored: 1
+Load 2750438/2865039 (96%) Split: 1  Label True: 1  Stored: 1
+Load 2779088/2865039 (97%) Split: 1  Label True: 1  Stored: 1
+Load 2807739/2865039 (98%) Split: 1  Label True: 0  Stored: 0
+Load 2836389/2865039 (99%) Split: 1  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865039
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865039
+length of data_output:  3
+
+Saved data segment for 1!
+Load 28651/2865038 (1%) Split: 9  Label True: 0  Stored: 0
+Load 57301/2865038 (2%) Split: 9  Label True: 0  Stored: 0
+Load 85952/2865038 (3%) Split: 9  Label True: 1  Stored: 1
+Load 114602/2865038 (4%) Split: 9  Label True: 0  Stored: 0
+Load 143252/2865038 (5%) Split: 9  Label True: 1  Stored: 1
+Load 171903/2865038 (6%) Split: 9  Label True: 0  Stored: 0
+Load 200553/2865038 (7%) Split: 9  Label True: 1  Stored: 1
+Load 229204/2865038 (8%) Split: 9  Label True: 0  Stored: 0
+Load 257854/2865038 (9%) Split: 9  Label True: 0  Stored: 0
+Load 286504/2865038 (10%) Split: 9  Label True: 1  Stored: 1
+Load 315155/2865038 (11%) Split: 9  Label True: 1  Stored: 1
+Load 343805/2865038 (12%) Split: 9  Label True: 1  Stored: 1
+Load 372455/2865038 (13%) Split: 9  Label True: 0  Stored: 0
+Load 401106/2865038 (14%) Split: 9  Label True: 0  Stored: 0
+Load 429756/2865038 (15%) Split: 9  Label True: 0  Stored: 0
+Load 458407/2865038 (16%) Split: 9  Label True: 0  Stored: 0
+Load 487057/2865038 (17%) Split: 9  Label True: 0  Stored: 0
+Load 515707/2865038 (18%) Split: 9  Label True: 0  Stored: 0
+Load 544358/2865038 (19%) Split: 9  Label True: 1  Stored: 1
+Load 573008/2865038 (20%) Split: 9  Label True: 0  Stored: 0
+Load 601658/2865038 (21%) Split: 9  Label True: 1  Stored: 1
+Load 630309/2865038 (22%) Split: 9  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 9  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 9  Label True: 0  Stored: 0
+Load 716260/2865038 (25%) Split: 9  Label True: 0  Stored: 0
+Load 744910/2865038 (26%) Split: 9  Label True: 0  Stored: 0
+Load 773561/2865038 (27%) Split: 9  Label True: 0  Stored: 0
+Load 802211/2865038 (28%) Split: 9  Label True: 0  Stored: 0
+Load 830862/2865038 (29%) Split: 9  Label True: 1  Stored: 1
+Load 859512/2865038 (30%) Split: 9  Label True: 1  Stored: 1
+Load 888162/2865038 (31%) Split: 9  Label True: 0  Stored: 0
+Load 916813/2865038 (32%) Split: 9  Label True: 0  Stored: 0
+Load 945463/2865038 (33%) Split: 9  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 9  Label True: 0  Stored: 0
+Load 1002764/2865038 (35%) Split: 9  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 9  Label True: 0  Stored: 0
+Load 1060065/2865038 (37%) Split: 9  Label True: 0  Stored: 0
+Load 1088715/2865038 (38%) Split: 9  Label True: 0  Stored: 0
+Load 1117365/2865038 (39%) Split: 9  Label True: 1  Stored: 1
+Load 1146016/2865038 (40%) Split: 9  Label True: 1  Stored: 1
+Load 1174666/2865038 (41%) Split: 9  Label True: 1  Stored: 1
+Load 1203316/2865038 (42%) Split: 9  Label True: 1  Stored: 1
+Load 1231967/2865038 (43%) Split: 9  Label True: 0  Stored: 0
+Load 1260617/2865038 (44%) Split: 9  Label True: 0  Stored: 0
+Load 1289268/2865038 (45%) Split: 9  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 9  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 9  Label True: 0  Stored: 0
+Load 1375219/2865038 (48%) Split: 9  Label True: 0  Stored: 0
+Load 1403869/2865038 (49%) Split: 9  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 9  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 9  Label True: 0  Stored: 0
+Load 1489820/2865038 (52%) Split: 9  Label True: 0  Stored: 0
+Load 1518471/2865038 (53%) Split: 9  Label True: 1  Stored: 1
+Load 1547121/2865038 (54%) Split: 9  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 9  Label True: 1  Stored: 1
+Load 1604422/2865038 (56%) Split: 9  Label True: 1  Stored: 1
+Load 1633072/2865038 (57%) Split: 9  Label True: 1  Stored: 1
+Load 1661723/2865038 (58%) Split: 9  Label True: 0  Stored: 0
+Load 1690373/2865038 (59%) Split: 9  Label True: 0  Stored: 0
+Load 1719023/2865038 (60%) Split: 9  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 9  Label True: 1  Stored: 1
+Load 1776324/2865038 (62%) Split: 9  Label True: 0  Stored: 0
+Load 1804974/2865038 (63%) Split: 9  Label True: 0  Stored: 0
+Load 1833625/2865038 (64%) Split: 9  Label True: 0  Stored: 0
+Load 1862275/2865038 (65%) Split: 9  Label True: 0  Stored: 0
+Load 1890926/2865038 (66%) Split: 9  Label True: 0  Stored: 0
+Load 1919576/2865038 (67%) Split: 9  Label True: 0  Stored: 0
+Load 1948226/2865038 (68%) Split: 9  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 9  Label True: 0  Stored: 0
+Load 2005527/2865038 (70%) Split: 9  Label True: 0  Stored: 0
+Load 2034177/2865038 (71%) Split: 9  Label True: 0  Stored: 0
+Load 2062828/2865038 (72%) Split: 9  Label True: 1  Stored: 1
+Load 2091478/2865038 (73%) Split: 9  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 9  Label True: 0  Stored: 0
+Load 2148779/2865038 (75%) Split: 9  Label True: 0  Stored: 0
+Load 2177429/2865038 (76%) Split: 9  Label True: 1  Stored: 1
+Load 2206080/2865038 (77%) Split: 9  Label True: 0  Stored: 0
+Load 2234730/2865038 (78%) Split: 9  Label True: 0  Stored: 0
+Load 2263381/2865038 (79%) Split: 9  Label True: 1  Stored: 1
+Load 2292031/2865038 (80%) Split: 9  Label True: 0  Stored: 0
+Load 2320681/2865038 (81%) Split: 9  Label True: 0  Stored: 0
+Load 2349332/2865038 (82%) Split: 9  Label True: 0  Stored: 0
+Load 2377982/2865038 (83%) Split: 9  Label True: 0  Stored: 0
+Load 2406632/2865038 (84%) Split: 9  Label True: 0  Stored: 0
+Load 2435283/2865038 (85%) Split: 9  Label True: 0  Stored: 0
+Load 2463933/2865038 (86%) Split: 9  Label True: 1  Stored: 1
+Load 2492584/2865038 (87%) Split: 9  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 9  Label True: 0  Stored: 0
+Load 2549884/2865038 (89%) Split: 9  Label True: 0  Stored: 0
+Load 2578535/2865038 (90%) Split: 9  Label True: 1  Stored: 1
+Load 2607185/2865038 (91%) Split: 9  Label True: 0  Stored: 0
+Load 2635835/2865038 (92%) Split: 9  Label True: 0  Stored: 0
+Load 2664486/2865038 (93%) Split: 9  Label True: 0  Stored: 0
+Load 2693136/2865038 (94%) Split: 9  Label True: 0  Stored: 0
+Load 2721787/2865038 (95%) Split: 9  Label True: 0  Stored: 0
+Load 2750437/2865038 (96%) Split: 9  Label True: 1  Stored: 1
+Load 2779087/2865038 (97%) Split: 9  Label True: 0  Stored: 0
+Load 2807738/2865038 (98%) Split: 9  Label True: 0  Stored: 0
+Load 2836388/2865038 (99%) Split: 9  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 9!
+Load 28651/2865038 (1%) Split: 10  Label True: 0  Stored: 0
+Load 57301/2865038 (2%) Split: 10  Label True: 0  Stored: 0
+Load 85952/2865038 (3%) Split: 10  Label True: 1  Stored: 1
+Load 114602/2865038 (4%) Split: 10  Label True: 0  Stored: 0
+Load 143252/2865038 (5%) Split: 10  Label True: 0  Stored: 0
+Load 171903/2865038 (6%) Split: 10  Label True: 0  Stored: 0
+Load 200553/2865038 (7%) Split: 10  Label True: 0  Stored: 0
+Load 229204/2865038 (8%) Split: 10  Label True: 0  Stored: 0
+Load 257854/2865038 (9%) Split: 10  Label True: 0  Stored: 0
+Load 286504/2865038 (10%) Split: 10  Label True: 0  Stored: 0
+Load 315155/2865038 (11%) Split: 10  Label True: 0  Stored: 0
+Load 343805/2865038 (12%) Split: 10  Label True: 1  Stored: 1
+Load 372455/2865038 (13%) Split: 10  Label True: 0  Stored: 0
+Load 401106/2865038 (14%) Split: 10  Label True: 0  Stored: 0
+Load 429756/2865038 (15%) Split: 10  Label True: 1  Stored: 1
+Load 458407/2865038 (16%) Split: 10  Label True: 0  Stored: 0
+Load 487057/2865038 (17%) Split: 10  Label True: 1  Stored: 1
+Load 515707/2865038 (18%) Split: 10  Label True: 1  Stored: 1
+Load 544358/2865038 (19%) Split: 10  Label True: 1  Stored: 1
+Load 573008/2865038 (20%) Split: 10  Label True: 0  Stored: 0
+Load 601658/2865038 (21%) Split: 10  Label True: 1  Stored: 1
+Load 630309/2865038 (22%) Split: 10  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 10  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 10  Label True: 1  Stored: 1
+Load 716260/2865038 (25%) Split: 10  Label True: 0  Stored: 0
+Load 744910/2865038 (26%) Split: 10  Label True: 0  Stored: 0
+Load 773561/2865038 (27%) Split: 10  Label True: 1  Stored: 1
+Load 802211/2865038 (28%) Split: 10  Label True: 0  Stored: 0
+Load 830862/2865038 (29%) Split: 10  Label True: 0  Stored: 0
+Load 859512/2865038 (30%) Split: 10  Label True: 0  Stored: 0
+Load 888162/2865038 (31%) Split: 10  Label True: 0  Stored: 0
+Load 916813/2865038 (32%) Split: 10  Label True: 0  Stored: 0
+Load 945463/2865038 (33%) Split: 10  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 10  Label True: 0  Stored: 0
+Load 1002764/2865038 (35%) Split: 10  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 10  Label True: 0  Stored: 0
+Load 1060065/2865038 (37%) Split: 10  Label True: 1  Stored: 1
+Load 1088715/2865038 (38%) Split: 10  Label True: 0  Stored: 0
+Load 1117365/2865038 (39%) Split: 10  Label True: 1  Stored: 1
+Load 1146016/2865038 (40%) Split: 10  Label True: 1  Stored: 1
+Load 1174666/2865038 (41%) Split: 10  Label True: 1  Stored: 1
+Load 1203316/2865038 (42%) Split: 10  Label True: 0  Stored: 0
+Load 1231967/2865038 (43%) Split: 10  Label True: 0  Stored: 0
+Load 1260617/2865038 (44%) Split: 10  Label True: 0  Stored: 0
+Load 1289268/2865038 (45%) Split: 10  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 10  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 10  Label True: 0  Stored: 0
+Load 1375219/2865038 (48%) Split: 10  Label True: 0  Stored: 0
+Load 1403869/2865038 (49%) Split: 10  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 10  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 10  Label True: 0  Stored: 0
+Load 1489820/2865038 (52%) Split: 10  Label True: 0  Stored: 0
+Load 1518471/2865038 (53%) Split: 10  Label True: 0  Stored: 0
+Load 1547121/2865038 (54%) Split: 10  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 10  Label True: 1  Stored: 1
+Load 1604422/2865038 (56%) Split: 10  Label True: 0  Stored: 0
+Load 1633072/2865038 (57%) Split: 10  Label True: 0  Stored: 0
+Load 1661723/2865038 (58%) Split: 10  Label True: 0  Stored: 0
+Load 1690373/2865038 (59%) Split: 10  Label True: 0  Stored: 0
+Load 1719023/2865038 (60%) Split: 10  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 10  Label True: 0  Stored: 0
+Load 1776324/2865038 (62%) Split: 10  Label True: 1  Stored: 1
+Load 1804974/2865038 (63%) Split: 10  Label True: 1  Stored: 1
+Load 1833625/2865038 (64%) Split: 10  Label True: 0  Stored: 0
+Load 1862275/2865038 (65%) Split: 10  Label True: 0  Stored: 0
+Load 1890926/2865038 (66%) Split: 10  Label True: 0  Stored: 0
+Load 1919576/2865038 (67%) Split: 10  Label True: 1  Stored: 1
+Load 1948226/2865038 (68%) Split: 10  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 10  Label True: 1  Stored: 1
+Load 2005527/2865038 (70%) Split: 10  Label True: 0  Stored: 0
+Load 2034177/2865038 (71%) Split: 10  Label True: 0  Stored: 0
+Load 2062828/2865038 (72%) Split: 10  Label True: 1  Stored: 1
+Load 2091478/2865038 (73%) Split: 10  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 10  Label True: 0  Stored: 0
+Load 2148779/2865038 (75%) Split: 10  Label True: 1  Stored: 1
+Load 2177429/2865038 (76%) Split: 10  Label True: 0  Stored: 0
+Load 2206080/2865038 (77%) Split: 10  Label True: 1  Stored: 1
+Load 2234730/2865038 (78%) Split: 10  Label True: 0  Stored: 0
+Load 2263381/2865038 (79%) Split: 10  Label True: 0  Stored: 0
+Load 2292031/2865038 (80%) Split: 10  Label True: 1  Stored: 1
+Load 2320681/2865038 (81%) Split: 10  Label True: 1  Stored: 1
+Load 2349332/2865038 (82%) Split: 10  Label True: 0  Stored: 0
+Load 2377982/2865038 (83%) Split: 10  Label True: 0  Stored: 0
+Load 2406632/2865038 (84%) Split: 10  Label True: 0  Stored: 0
+Load 2435283/2865038 (85%) Split: 10  Label True: 1  Stored: 1
+Load 2463933/2865038 (86%) Split: 10  Label True: 0  Stored: 0
+Load 2492584/2865038 (87%) Split: 10  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 10  Label True: 0  Stored: 0
+Load 2549884/2865038 (89%) Split: 10  Label True: 1  Stored: 1
+Load 2578535/2865038 (90%) Split: 10  Label True: 0  Stored: 0
+Load 2607185/2865038 (91%) Split: 10  Label True: 1  Stored: 1
+Load 2635835/2865038 (92%) Split: 10  Label True: 1  Stored: 1
+Load 2664486/2865038 (93%) Split: 10  Label True: 0  Stored: 0
+Load 2693136/2865038 (94%) Split: 10  Label True: 0  Stored: 0
+Load 2721787/2865038 (95%) Split: 10  Label True: 0  Stored: 0
+Load 2750437/2865038 (96%) Split: 10  Label True: 0  Stored: 0
+Load 2779087/2865038 (97%) Split: 10  Label True: 0  Stored: 0
+Load 2807738/2865038 (98%) Split: 10  Label True: 0  Stored: 0
+Load 2836388/2865038 (99%) Split: 10  Label True: 1  Stored: 1
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 10!
+Load 28651/2865038 (1%) Split: 13  Label True: 0  Stored: 0
+Load 57301/2865038 (2%) Split: 13  Label True: 0  Stored: 0
+Load 85952/2865038 (3%) Split: 13  Label True: 0  Stored: 0
+Load 114602/2865038 (4%) Split: 13  Label True: 1  Stored: 1
+Load 143252/2865038 (5%) Split: 13  Label True: 0  Stored: 0
+Load 171903/2865038 (6%) Split: 13  Label True: 0  Stored: 0
+Load 200553/2865038 (7%) Split: 13  Label True: 1  Stored: 1
+Load 229204/2865038 (8%) Split: 13  Label True: 1  Stored: 1
+Load 257854/2865038 (9%) Split: 13  Label True: 0  Stored: 0
+Load 286504/2865038 (10%) Split: 13  Label True: 0  Stored: 0
+Load 315155/2865038 (11%) Split: 13  Label True: 0  Stored: 0
+Load 343805/2865038 (12%) Split: 13  Label True: 1  Stored: 1
+Load 372455/2865038 (13%) Split: 13  Label True: 0  Stored: 0
+Load 401106/2865038 (14%) Split: 13  Label True: 0  Stored: 0
+Load 429756/2865038 (15%) Split: 13  Label True: 0  Stored: 0
+Load 458407/2865038 (16%) Split: 13  Label True: 0  Stored: 0
+Load 487057/2865038 (17%) Split: 13  Label True: 0  Stored: 0
+Load 515707/2865038 (18%) Split: 13  Label True: 0  Stored: 0
+Load 544358/2865038 (19%) Split: 13  Label True: 1  Stored: 1
+Load 573008/2865038 (20%) Split: 13  Label True: 0  Stored: 0
+Load 601658/2865038 (21%) Split: 13  Label True: 0  Stored: 0
+Load 630309/2865038 (22%) Split: 13  Label True: 0  Stored: 0
+Load 658959/2865038 (23%) Split: 13  Label True: 0  Stored: 0
+Load 687610/2865038 (24%) Split: 13  Label True: 0  Stored: 0
+Load 716260/2865038 (25%) Split: 13  Label True: 1  Stored: 1
+Load 744910/2865038 (26%) Split: 13  Label True: 0  Stored: 0
+Load 773561/2865038 (27%) Split: 13  Label True: 1  Stored: 1
+Load 802211/2865038 (28%) Split: 13  Label True: 0  Stored: 0
+Load 830862/2865038 (29%) Split: 13  Label True: 0  Stored: 0
+Load 859512/2865038 (30%) Split: 13  Label True: 1  Stored: 1
+Load 888162/2865038 (31%) Split: 13  Label True: 0  Stored: 0
+Load 916813/2865038 (32%) Split: 13  Label True: 0  Stored: 0
+Load 945463/2865038 (33%) Split: 13  Label True: 0  Stored: 0
+Load 974113/2865038 (34%) Split: 13  Label True: 1  Stored: 1
+Load 1002764/2865038 (35%) Split: 13  Label True: 0  Stored: 0
+Load 1031414/2865038 (36%) Split: 13  Label True: 1  Stored: 1
+Load 1060065/2865038 (37%) Split: 13  Label True: 0  Stored: 0
+Load 1088715/2865038 (38%) Split: 13  Label True: 0  Stored: 0
+Load 1117365/2865038 (39%) Split: 13  Label True: 0  Stored: 0
+Load 1146016/2865038 (40%) Split: 13  Label True: 0  Stored: 0
+Load 1174666/2865038 (41%) Split: 13  Label True: 1  Stored: 1
+Load 1203316/2865038 (42%) Split: 13  Label True: 1  Stored: 1
+Load 1231967/2865038 (43%) Split: 13  Label True: 1  Stored: 1
+Load 1260617/2865038 (44%) Split: 13  Label True: 0  Stored: 0
+Load 1289268/2865038 (45%) Split: 13  Label True: 0  Stored: 0
+Load 1317918/2865038 (46%) Split: 13  Label True: 0  Stored: 0
+Load 1346568/2865038 (47%) Split: 13  Label True: 1  Stored: 1
+Load 1375219/2865038 (48%) Split: 13  Label True: 0  Stored: 0
+Load 1403869/2865038 (49%) Split: 13  Label True: 0  Stored: 0
+Load 1432520/2865038 (50%) Split: 13  Label True: 0  Stored: 0
+Load 1461170/2865038 (51%) Split: 13  Label True: 0  Stored: 0
+Load 1489820/2865038 (52%) Split: 13  Label True: 0  Stored: 0
+Load 1518471/2865038 (53%) Split: 13  Label True: 0  Stored: 0
+Load 1547121/2865038 (54%) Split: 13  Label True: 0  Stored: 0
+Load 1575771/2865038 (55%) Split: 13  Label True: 0  Stored: 0
+Load 1604422/2865038 (56%) Split: 13  Label True: 0  Stored: 0
+Load 1633072/2865038 (57%) Split: 13  Label True: 0  Stored: 0
+Load 1661723/2865038 (58%) Split: 13  Label True: 0  Stored: 0
+Load 1690373/2865038 (59%) Split: 13  Label True: 1  Stored: 1
+Load 1719023/2865038 (60%) Split: 13  Label True: 0  Stored: 0
+Load 1747674/2865038 (61%) Split: 13  Label True: 1  Stored: 1
+Load 1776324/2865038 (62%) Split: 13  Label True: 1  Stored: 1
+Load 1804974/2865038 (63%) Split: 13  Label True: 0  Stored: 0
+Load 1833625/2865038 (64%) Split: 13  Label True: 1  Stored: 1
+Load 1862275/2865038 (65%) Split: 13  Label True: 0  Stored: 0
+Load 1890926/2865038 (66%) Split: 13  Label True: 0  Stored: 0
+Load 1919576/2865038 (67%) Split: 13  Label True: 0  Stored: 0
+Load 1948226/2865038 (68%) Split: 13  Label True: 0  Stored: 0
+Load 1976877/2865038 (69%) Split: 13  Label True: 0  Stored: 0
+Load 2005527/2865038 (70%) Split: 13  Label True: 0  Stored: 0
+Load 2034177/2865038 (71%) Split: 13  Label True: 0  Stored: 0
+Load 2062828/2865038 (72%) Split: 13  Label True: 0  Stored: 0
+Load 2091478/2865038 (73%) Split: 13  Label True: 0  Stored: 0
+Load 2120129/2865038 (74%) Split: 13  Label True: 1  Stored: 1
+Load 2148779/2865038 (75%) Split: 13  Label True: 1  Stored: 1
+Load 2177429/2865038 (76%) Split: 13  Label True: 0  Stored: 0
+Load 2206080/2865038 (77%) Split: 13  Label True: 0  Stored: 0
+Load 2234730/2865038 (78%) Split: 13  Label True: 0  Stored: 0
+Load 2263381/2865038 (79%) Split: 13  Label True: 0  Stored: 0
+Load 2292031/2865038 (80%) Split: 13  Label True: 0  Stored: 0
+Load 2320681/2865038 (81%) Split: 13  Label True: 0  Stored: 0
+Load 2349332/2865038 (82%) Split: 13  Label True: 0  Stored: 0
+Load 2377982/2865038 (83%) Split: 13  Label True: 0  Stored: 0
+Load 2406632/2865038 (84%) Split: 13  Label True: 1  Stored: 1
+Load 2435283/2865038 (85%) Split: 13  Label True: 0  Stored: 0
+Load 2463933/2865038 (86%) Split: 13  Label True: 0  Stored: 0
+Load 2492584/2865038 (87%) Split: 13  Label True: 0  Stored: 0
+Load 2521234/2865038 (88%) Split: 13  Label True: 0  Stored: 0
+Load 2549884/2865038 (89%) Split: 13  Label True: 0  Stored: 0
+Load 2578535/2865038 (90%) Split: 13  Label True: 0  Stored: 0
+Load 2607185/2865038 (91%) Split: 13  Label True: 0  Stored: 0
+Load 2635835/2865038 (92%) Split: 13  Label True: 1  Stored: 1
+Load 2664486/2865038 (93%) Split: 13  Label True: 0  Stored: 0
+Load 2693136/2865038 (94%) Split: 13  Label True: 0  Stored: 0
+Load 2721787/2865038 (95%) Split: 13  Label True: 1  Stored: 1
+Load 2750437/2865038 (96%) Split: 13  Label True: 0  Stored: 0
+Load 2779087/2865038 (97%) Split: 13  Label True: 0  Stored: 0
+Load 2807738/2865038 (98%) Split: 13  Label True: 1  Stored: 1
+Load 2836388/2865038 (99%) Split: 13  Label True: 0  Stored: 0
+length of pof_data_segment X_int 2865038
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 2865038
+length of data_output:  3
+
+Saved data segment for 13!
+Constructing convertDicts Split: 0
+Constructing convertDicts Split: 1
+Constructing convertDicts Split: 2
+Constructing convertDicts Split: 3
+Constructing convertDicts Split: 4
+Constructing convertDicts Split: 5
+Constructing convertDicts Split: 6
+Constructing convertDicts Split: 7
+Constructing convertDicts Split: 8
+Constructing convertDicts Split: 9
+Constructing convertDicts Split: 10
+Constructing convertDicts Split: 11
+Constructing convertDicts Split: 12
+Constructing convertDicts Split: 13
+Constructing convertDicts Split: 14
+Constructing convertDicts Split: 15
+Total number of samples: 45840617
+Divided into days/splits:
+ [2865039, 2865039, 2865039, 2865039, 2865039, 2865039, 2865039, 2865039, 2865039, 2865038, 2865038, 2865038, 2865038, 2865038, 2865038, 2865038]
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_0_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_2_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_1_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_11_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_9_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_13_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_4_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_3_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_6_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_10_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_15_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_8_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_7_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865039
+length of pas_data_segment X_cat 2865039
+length of pas_data_segment y 2865039
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_5_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_14_processed.npz
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 2865038
+length of pas_data_segment X_cat 2865038
+length of pas_data_segment y 2865038
+length of pas_output:  3
+Processed /local/home/yuzhuyu/train_day_12_processed.npz
+Concatenating multiple days into /local/home/yuzhuyu/kaggleAdDisplayChallenge_processed.npz file
+i =  0 , length:  3
+Loaded day: 0 y = 1: 718978 y = 0: 2146061
+i =  1 , length:  3
+Loaded day: 1 y = 1: 1432235 y = 0: 4297843
+i =  2 , length:  3
+Loaded day: 2 y = 1: 2150279 y = 0: 6444838
+i =  3 , length:  3
+Loaded day: 3 y = 1: 2887738 y = 0: 8572418
+i =  4 , length:  3
+Loaded day: 4 y = 1: 3628512 y = 0: 10696683
+i =  5 , length:  3
+Loaded day: 5 y = 1: 4359917 y = 0: 12830317
+i =  6 , length:  3
+Loaded day: 6 y = 1: 5087413 y = 0: 14967860
+i =  7 , length:  3
+Loaded day: 7 y = 1: 5819585 y = 0: 17100727
+i =  8 , length:  3
+Loaded day: 8 y = 1: 6537557 y = 0: 19247794
+i =  9 , length:  3
+Loaded day: 9 y = 1: 7289178 y = 0: 21361211
+i =  10 , length:  3
+Loaded day: 10 y = 1: 8043631 y = 0: 23471796
+i =  11 , length:  3
+Loaded day: 11 y = 1: 8801178 y = 0: 25579287
+i =  12 , length:  3
+Loaded day: 12 y = 1: 9542422 y = 0: 27703081
+i =  13 , length:  3
+Loaded day: 13 y = 1: 10251717 y = 0: 29858824
+i =  14 , length:  3
+Loaded day: 14 y = 1: 11008565 y = 0: 31967014
+i =  15 , length:  3
+Loaded day: 15 y = 1: 11745438 y = 0: 34095179
+X_cat length:  45840617
+X_int length:  45840617
+y length:  45840617
+Splitting Input Files: %s s 24.028048200998455
+Process One File: %s s 261.20319002500037
+Creating Dictionary: %s s 0.7388758989982307
+Process All Splits: %s s 112.21495275099733
+Concatenating Files: %s s 76.19074363700202

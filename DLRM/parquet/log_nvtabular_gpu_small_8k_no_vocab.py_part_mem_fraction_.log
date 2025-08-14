@@ -1,0 +1,64 @@
+python nvtabular_gpu_small_8k_no_vocab.py --part_mem_fraction 0.1
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Workflow creation completed in 0.00 seconds
+Dataset loading completed in 2.96 seconds
+Fitting the workflow
+Workflow fitting completed in 0.89 seconds
+Transforming the dataset
+Dataset transformation completed in 0.03 seconds
+Total execution time: 3.88 seconds
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Workflow creation completed in 0.00 seconds
+Dataset loading completed in 2.93 seconds
+Fitting the workflow
+Workflow fitting completed in 0.91 seconds
+Transforming the dataset
+Dataset transformation completed in 0.03 seconds
+Total execution time: 3.87 seconds
+
+
+python nvtabular_gpu_small_8k_no_vocab.py --part_mem_fraction 0.2
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Workflow creation completed in 0.00 seconds
+Dataset loading completed in 3.02 seconds
+Fitting the workflow
+Workflow fitting completed in 1.54 seconds
+Transforming the dataset
+Dataset transformation completed in 0.03 seconds
+Total execution time: 4.59 seconds
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Workflow creation completed in 0.00 seconds
+Dataset loading completed in 3.00 seconds
+Fitting the workflow
+Workflow fitting completed in 1.57 seconds
+Transforming the dataset
+Dataset transformation completed in 0.03 seconds
+Total execution time: 4.60 seconds
+
+
+python nvtabular_gpu_small_8k_no_vocab.py --part_mem_fraction 0.3
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Workflow creation completed in 0.00 seconds
+Dataset loading completed in 2.99 seconds
+Fitting the workflow
+Workflow fitting completed in 2.11 seconds
+Transforming the dataset
+Dataset transformation completed in 0.03 seconds
+Total execution time: 5.13 seconds

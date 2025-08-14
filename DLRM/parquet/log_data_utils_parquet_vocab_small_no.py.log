@@ -1,0 +1,3 @@
+python data_utils_parquet_vocab_small_no.py --n-jobs 16 --modulus 8192
+
+Total execution time: 124.18 seconds

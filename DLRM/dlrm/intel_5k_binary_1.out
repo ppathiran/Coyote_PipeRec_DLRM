@@ -1,0 +1,128 @@
+Reading raw data=/local/home/yuzhuyu/processed_data.bin
+Reading data from path=/local/home/yuzhuyu/processed_data.bin
+The binary dataset has the size of 8801398464
+The binary dataset contains 45840617 rows.
+Load 458407/45840617 (1%) Split: 0  Label True: 0  Stored: 0
+Load 916813/45840617 (2%) Split: 0  Label True: 1  Stored: 1
+Load 1375219/45840617 (3%) Split: 0  Label True: 0  Stored: 0
+Load 1833625/45840617 (4%) Split: 0  Label True: 0  Stored: 0
+Load 2292031/45840617 (5%) Split: 0  Label True: 0  Stored: 0
+Load 2750438/45840617 (6%) Split: 0  Label True: 0  Stored: 0
+Load 3208844/45840617 (7%) Split: 0  Label True: 1  Stored: 1
+Load 3667250/45840617 (8%) Split: 0  Label True: 0  Stored: 0
+Load 4125656/45840617 (9%) Split: 0  Label True: 0  Stored: 0
+Load 4584062/45840617 (10%) Split: 0  Label True: 0  Stored: 0
+Load 5042468/45840617 (11%) Split: 0  Label True: 0  Stored: 0
+Load 5500875/45840617 (12%) Split: 0  Label True: 0  Stored: 0
+Load 5959281/45840617 (13%) Split: 0  Label True: 1  Stored: 1
+Load 6417687/45840617 (14%) Split: 0  Label True: 0  Stored: 0
+Load 6876093/45840617 (15%) Split: 0  Label True: 1  Stored: 1
+Load 7334499/45840617 (16%) Split: 0  Label True: 0  Stored: 0
+Load 7792905/45840617 (17%) Split: 0  Label True: 0  Stored: 0
+Load 8251312/45840617 (18%) Split: 0  Label True: 0  Stored: 0
+Load 8709718/45840617 (19%) Split: 0  Label True: 0  Stored: 0
+Load 9168124/45840617 (20%) Split: 0  Label True: 0  Stored: 0
+Load 9626530/45840617 (21%) Split: 0  Label True: 0  Stored: 0
+Load 10084936/45840617 (22%) Split: 0  Label True: 0  Stored: 0
+Load 10543342/45840617 (23%) Split: 0  Label True: 0  Stored: 0
+Load 11001749/45840617 (24%) Split: 0  Label True: 0  Stored: 0
+Load 11460155/45840617 (25%) Split: 0  Label True: 0  Stored: 0
+Load 11918561/45840617 (26%) Split: 0  Label True: 0  Stored: 0
+Load 12376967/45840617 (27%) Split: 0  Label True: 0  Stored: 0
+Load 12835373/45840617 (28%) Split: 0  Label True: 0  Stored: 0
+Load 13293779/45840617 (29%) Split: 0  Label True: 0  Stored: 0
+Load 13752186/45840617 (30%) Split: 0  Label True: 0  Stored: 0
+Load 14210592/45840617 (31%) Split: 0  Label True: 0  Stored: 0
+Load 14668998/45840617 (32%) Split: 0  Label True: 0  Stored: 0
+Load 15127404/45840617 (33%) Split: 0  Label True: 0  Stored: 0
+Load 15585810/45840617 (34%) Split: 0  Label True: 0  Stored: 0
+Load 16044216/45840617 (35%) Split: 0  Label True: 0  Stored: 0
+Load 16502623/45840617 (36%) Split: 0  Label True: 1  Stored: 1
+Load 16961029/45840617 (37%) Split: 0  Label True: 0  Stored: 0
+Load 17419435/45840617 (38%) Split: 0  Label True: 0  Stored: 0
+Load 17877841/45840617 (39%) Split: 0  Label True: 0  Stored: 0
+Load 18336247/45840617 (40%) Split: 0  Label True: 0  Stored: 0
+Load 18794653/45840617 (41%) Split: 0  Label True: 0  Stored: 0
+Load 19253060/45840617 (42%) Split: 0  Label True: 0  Stored: 0
+Load 19711466/45840617 (43%) Split: 0  Label True: 0  Stored: 0
+Load 20169872/45840617 (44%) Split: 0  Label True: 0  Stored: 0
+Load 20628278/45840617 (45%) Split: 0  Label True: 0  Stored: 0
+Load 21086684/45840617 (46%) Split: 0  Label True: 0  Stored: 0
+Load 21545090/45840617 (47%) Split: 0  Label True: 0  Stored: 0
+Load 22003497/45840617 (48%) Split: 0  Label True: 1  Stored: 1
+Load 22461903/45840617 (49%) Split: 0  Label True: 1  Stored: 1
+Load 22920309/45840617 (50%) Split: 0  Label True: 0  Stored: 0
+Load 23378715/45840617 (51%) Split: 0  Label True: 0  Stored: 0
+Load 23837121/45840617 (52%) Split: 0  Label True: 0  Stored: 0
+Load 24295528/45840617 (53%) Split: 0  Label True: 0  Stored: 0
+Load 24753934/45840617 (54%) Split: 0  Label True: 1  Stored: 1
+Load 25212340/45840617 (55%) Split: 0  Label True: 1  Stored: 1
+Load 25670746/45840617 (56%) Split: 0  Label True: 0  Stored: 0
+Load 26129152/45840617 (57%) Split: 0  Label True: 0  Stored: 0
+Load 26587558/45840617 (58%) Split: 0  Label True: 0  Stored: 0
+Load 27045965/45840617 (59%) Split: 0  Label True: 0  Stored: 0
+Load 27504371/45840617 (60%) Split: 0  Label True: 0  Stored: 0
+Load 27962777/45840617 (61%) Split: 0  Label True: 0  Stored: 0
+Load 28421183/45840617 (62%) Split: 0  Label True: 0  Stored: 0
+Load 28879589/45840617 (63%) Split: 0  Label True: 0  Stored: 0
+Load 29337995/45840617 (64%) Split: 0  Label True: 0  Stored: 0
+Load 29796402/45840617 (65%) Split: 0  Label True: 0  Stored: 0
+Load 30254808/45840617 (66%) Split: 0  Label True: 1  Stored: 1
+Load 30713214/45840617 (67%) Split: 0  Label True: 0  Stored: 0
+Load 31171620/45840617 (68%) Split: 0  Label True: 0  Stored: 0
+Load 31630026/45840617 (69%) Split: 0  Label True: 0  Stored: 0
+Load 32088432/45840617 (70%) Split: 0  Label True: 0  Stored: 0
+Load 32546839/45840617 (71%) Split: 0  Label True: 1  Stored: 1
+Load 33005245/45840617 (72%) Split: 0  Label True: 1  Stored: 1
+Load 33463651/45840617 (73%) Split: 0  Label True: 1  Stored: 1
+Load 33922057/45840617 (74%) Split: 0  Label True: 0  Stored: 0
+Load 34380463/45840617 (75%) Split: 0  Label True: 0  Stored: 0
+Load 34838869/45840617 (76%) Split: 0  Label True: 1  Stored: 1
+Load 35297276/45840617 (77%) Split: 0  Label True: 0  Stored: 0
+Load 35755682/45840617 (78%) Split: 0  Label True: 0  Stored: 0
+Load 36214088/45840617 (79%) Split: 0  Label True: 0  Stored: 0
+Load 36672494/45840617 (80%) Split: 0  Label True: 0  Stored: 0
+Load 37130900/45840617 (81%) Split: 0  Label True: 0  Stored: 0
+Load 37589306/45840617 (82%) Split: 0  Label True: 0  Stored: 0
+Load 38047713/45840617 (83%) Split: 0  Label True: 0  Stored: 0
+Load 38506119/45840617 (84%) Split: 0  Label True: 0  Stored: 0
+Load 38964525/45840617 (85%) Split: 0  Label True: 0  Stored: 0
+Load 39422931/45840617 (86%) Split: 0  Label True: 1  Stored: 1
+Load 39881337/45840617 (87%) Split: 0  Label True: 0  Stored: 0
+Load 40339743/45840617 (88%) Split: 0  Label True: 1  Stored: 1
+Load 40798150/45840617 (89%) Split: 0  Label True: 0  Stored: 0
+Load 41256556/45840617 (90%) Split: 0  Label True: 0  Stored: 0
+Load 41714962/45840617 (91%) Split: 0  Label True: 0  Stored: 0
+Load 42173368/45840617 (92%) Split: 0  Label True: 0  Stored: 0
+Load 42631774/45840617 (93%) Split: 0  Label True: 0  Stored: 0
+Load 43090180/45840617 (94%) Split: 0  Label True: 0  Stored: 0
+Load 43548587/45840617 (95%) Split: 0  Label True: 0  Stored: 0
+Load 44006993/45840617 (96%) Split: 0  Label True: 1  Stored: 1
+Load 44465399/45840617 (97%) Split: 0  Label True: 1  Stored: 1
+Load 44923805/45840617 (98%) Split: 0  Label True: 0  Stored: 0
+Load 45382211/45840617 (99%) Split: 0  Label True: 0  Stored: 0
+length of pof_data_segment X_int 45840617
+length of pof_data_segment X_cat_t 26
+length of pof_data_segment y 45840617
+length of data_output:  3
+
+Saved data segment for 0!
+Constructing convertDicts Split: 0
+Total number of samples: 45840617
+Divided into days/splits:
+ [45840617]
+Length of pof_output  3
+length of data:  3
+length of pas_data_segment X_int 45840617
+length of pas_data_segment X_cat 45840617
+length of pas_data_segment y 45840617
+length of pas_output:  3
+Processed /local/home/yuzhuyu/processed_data_day_0_processed.npz
+Concatenating multiple days into /local/home/yuzhuyu/kaggleAdDisplayChallenge_processed.npz file
+i =  0 , length:  3
+Loaded day: 0 y = 1: 11745438 y = 0: 34095179
+Splitting Input Files: %s s 20.564728544999525
+Process One File: %s s 780.9005042390017
+Creating Dictionary: %s s 0.004248835000908002
+Process All Splits: %s s 371.8012826710001
+Concatenating Files: %s s 0.48025679999773274

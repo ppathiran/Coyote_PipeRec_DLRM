@@ -1,0 +1,377 @@
+python nvtabular_gpu_small_512k.py --part_mem_fraction 0.1
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Fitting the workflow
+Workflow fitting completed in 85.81 seconds
+Transforming the dataset
+Dataset transformation completed in 0.14 seconds
+Total execution time: 88.94 seconds
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Fitting the workflow
+Workflow fitting completed in 81.58 seconds
+Transforming the dataset
+Dataset transformation completed in 0.13 seconds
+Total execution time: 84.78 seconds
+
+
+python nvtabular_gpu_small_512k.py --part_mem_fraction 0.2
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Fitting the workflow
+Workflow fitting completed in 72.29 seconds
+Transforming the dataset
+Dataset transformation completed in 0.04 seconds
+Total execution time: 75.37 seconds
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+Fitting the workflow
+Workflow fitting completed in 68.40 seconds
+Transforming the dataset
+Dataset transformation completed in 0.03 seconds
+Total execution time: 71.44 seconds
+
+
+python nvtabular_gpu_small_512k.py --part_mem_fraction 0.3
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Fitting the workflow
+Workflow fitting completed in 65.62 seconds
+Transforming the dataset
+Dataset transformation completed in 0.15 seconds
+Total execution time: 68.75 seconds
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Fitting the workflow
+Workflow fitting completed in 73.37 seconds
+Transforming the dataset
+Dataset transformation completed in 0.13 seconds
+Total execution time: 76.50 seconds
+
+
+python nvtabular_gpu_small_512k.py --part_mem_fraction 0.4
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Failed to transform operator <nvtabular.ops.categorify.Categorify object at 0x7ff524070610>
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 510, in transform
+    encoded = _encode(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 1778, in _encode
+    labels = codes.merge(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 2425, in sort_values
+    out = self._gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 1810, in _gather
+    libcudf.copying.gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "copying.pyx", line 151, in cudf._lib.copying.gather
+  File "copying.pyx", line 48, in cudf._lib.pylibcudf.copying.gather
+  File "copying.pyx", line 75, in cudf._lib.pylibcudf.copying.gather
+MemoryError: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 237, in _run_node_transform
+    transformed_data = node.op.transform(selection, input_data)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 534, in transform
+    raise RuntimeError(f"Failed to categorical encode column {name}") from e
+RuntimeError: Failed to categorical encode column col_25
+Fitting the workflow
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 510, in transform
+    encoded = _encode(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 1778, in _encode
+    labels = codes.merge(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 2425, in sort_values
+    out = self._gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 1810, in _gather
+    libcudf.copying.gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "copying.pyx", line 151, in cudf._lib.copying.gather
+  File "copying.pyx", line 48, in cudf._lib.pylibcudf.copying.gather
+  File "copying.pyx", line 75, in cudf._lib.pylibcudf.copying.gather
+MemoryError: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 96, in <module>
+    main()
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 86, in main
+    transformed_data = preprocess_criteo_parquet(train_file, frequency_threshold, args.part_mem_fraction)
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 65, in preprocess_criteo_parquet
+    workflow.fit(train_ds)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/workflow/workflow.py", line 213, in fit
+    self.executor.fit(dataset, self.graph)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 479, in fit
+    Dataset(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py", line 1262, in sample_dtypes
+    _real_meta = self.engine.sample_data(n=n)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset_engine.py", line 71, in sample_data
+    _head = _ddf.partitions[partition_index].head(n)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/core.py", line 1590, in head
+    return self._head(n=n, npartitions=npartitions, compute=compute, safe=safe)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/core.py", line 1624, in _head
+    result = result.compute()
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/base.py", line 379, in compute
+    (result,) = compute(self, traverse=False, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/base.py", line 665, in compute
+    results = schedule(dsk, keys, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 102, in transform
+    transformed_data = self._execute_node(node, transformable, capture_dtypes, strict)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 116, in _execute_node
+    upstream_outputs = self._run_upstream_transforms(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 130, in _run_upstream_transforms
+    node_output = self._execute_node(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 122, in _execute_node
+    transform_output = self._run_node_transform(node, transform_input, capture_dtypes, strict)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 250, in _run_node_transform
+    raise exc
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 237, in _run_node_transform
+    transformed_data = node.op.transform(selection, input_data)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 534, in transform
+    raise RuntimeError(f"Failed to categorical encode column {name}") from e
+RuntimeError: Failed to categorical encode column col_25
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Failed to transform operator <nvtabular.ops.categorify.Categorify object at 0x7f376f8b1610>
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 510, in transform
+    encoded = _encode(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 1778, in _encode
+    labels = codes.merge(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 2425, in sort_values
+    out = self._gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 1810, in _gather
+    libcudf.copying.gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "copying.pyx", line 151, in cudf._lib.copying.gather
+  File "copying.pyx", line 48, in cudf._lib.pylibcudf.copying.gather
+  File "copying.pyx", line 75, in cudf._lib.pylibcudf.copying.gather
+MemoryError: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 237, in _run_node_transform
+    transformed_data = node.op.transform(selection, input_data)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 534, in transform
+    raise RuntimeError(f"Failed to categorical encode column {name}") from e
+RuntimeError: Failed to categorical encode column col_25
+Fitting the workflow
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 510, in transform
+    encoded = _encode(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 1778, in _encode
+    labels = codes.merge(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 2425, in sort_values
+    out = self._gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/core/indexed_frame.py", line 1810, in _gather
+    libcudf.copying.gather(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/contextlib.py", line 79, in inner
+    return func(*args, **kwds)
+  File "copying.pyx", line 151, in cudf._lib.copying.gather
+  File "copying.pyx", line 48, in cudf._lib.pylibcudf.copying.gather
+  File "copying.pyx", line 75, in cudf._lib.pylibcudf.copying.gather
+MemoryError: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 96, in <module>
+    main()
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 86, in main
+    transformed_data = preprocess_criteo_parquet(train_file, frequency_threshold, args.part_mem_fraction)
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 65, in preprocess_criteo_parquet
+    workflow.fit(train_ds)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/workflow/workflow.py", line 213, in fit
+    self.executor.fit(dataset, self.graph)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 479, in fit
+    Dataset(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py", line 1262, in sample_dtypes
+    _real_meta = self.engine.sample_data(n=n)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset_engine.py", line 71, in sample_data
+    _head = _ddf.partitions[partition_index].head(n)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/core.py", line 1590, in head
+    return self._head(n=n, npartitions=npartitions, compute=compute, safe=safe)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/core.py", line 1624, in _head
+    result = result.compute()
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/base.py", line 379, in compute
+    (result,) = compute(self, traverse=False, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/base.py", line 665, in compute
+    results = schedule(dsk, keys, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 102, in transform
+    transformed_data = self._execute_node(node, transformable, capture_dtypes, strict)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 116, in _execute_node
+    upstream_outputs = self._run_upstream_transforms(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 130, in _run_upstream_transforms
+    node_output = self._execute_node(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 122, in _execute_node
+    transform_output = self._run_node_transform(node, transform_input, capture_dtypes, strict)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 250, in _run_node_transform
+    raise exc
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 237, in _run_node_transform
+    transformed_data = node.op.transform(selection, input_data)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/ops/categorify.py", line 534, in transform
+    raise RuntimeError(f"Failed to categorical encode column {name}") from e
+RuntimeError: Failed to categorical encode column col_25
+
+
+python nvtabular_gpu_small_512k.py --part_mem_fraction 0.5
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Fitting the workflow
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask_cudf/io/parquet.py", line 301, in read_partition
+    cls._read_paths(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask_cudf/io/parquet.py", line 112, in _read_paths
+    df = cudf.read_parquet(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/io/parquet.py", line 577, in read_parquet
+    df = _parquet_to_frame(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/io/parquet.py", line 721, in _parquet_to_frame
+    return _read_parquet(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/io/parquet.py", line 829, in _read_parquet
+    return libparquet.read_parquet(
+  File "parquet.pyx", line 118, in cudf._lib.parquet.read_parquet
+  File "parquet.pyx", line 174, in cudf._lib.parquet.read_parquet
+MemoryError: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 96, in <module>
+    main()
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 86, in main
+    transformed_data = preprocess_criteo_parquet(train_file, frequency_threshold, args.part_mem_fraction)
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 65, in preprocess_criteo_parquet
+    workflow.fit(train_ds)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/workflow/workflow.py", line 213, in fit
+    self.executor.fit(dataset, self.graph)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 466, in fit
+    self.fit_phase(dataset, current_phase)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 541, in fit_phase
+    results = dask.compute(stats, scheduler="synchronous")[0]
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/base.py", line 665, in compute
+    results = schedule(dsk, keys, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/io/parquet/core.py", line 97, in __call__
+    return read_parquet_part(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/io/parquet/core.py", line 645, in read_parquet_part
+    dfs = [
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/io/parquet/core.py", line 646, in <listcomp>
+    func(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/parquet.py", line 127, in read_partition
+    return CudfEngine.read_partition(fs, pieces, *args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask_cudf/io/parquet.py", line 326, in read_partition
+    raise MemoryError(
+MemoryError: Parquet data was larger than the available GPU memory!
+
+See the notes on split_row_groups in the read_parquet documentation.
+
+Original Error: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/tf.py:52: UserWarning: Tensorflow dtype mappings did not load successfully due to an error: No module named 'tensorflow'
+  warn(f"Tensorflow dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dtypes/mappings/triton.py:53: UserWarning: Triton dtype mappings did not load successfully due to an error: No module named 'tritonclient'
+  warn(f"Triton dtype mappings did not load successfully due to an error: {exc.msg}")
+/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/dataset.py:301: UserWarning: Using very large partitions sizes for Dask. Memory-related errors are likely.
+  warnings.warn(
+Fitting the workflow
+Traceback (most recent call last):
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask_cudf/io/parquet.py", line 301, in read_partition
+    cls._read_paths(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask_cudf/io/parquet.py", line 112, in _read_paths
+    df = cudf.read_parquet(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/io/parquet.py", line 577, in read_parquet
+    df = _parquet_to_frame(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/io/parquet.py", line 721, in _parquet_to_frame
+    return _read_parquet(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtx/nvtx.py", line 116, in inner
+    result = func(*args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/cudf/io/parquet.py", line 829, in _read_parquet
+    return libparquet.read_parquet(
+  File "parquet.pyx", line 118, in cudf._lib.parquet.read_parquet
+  File "parquet.pyx", line 174, in cudf._lib.parquet.read_parquet
+MemoryError: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 96, in <module>
+    main()
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 86, in main
+    transformed_data = preprocess_criteo_parquet(train_file, frequency_threshold, args.part_mem_fraction)
+  File "/home/yuzhuyu/u55c/rec_preprocessing/nvtabular_gpu_small_512k.py", line 65, in preprocess_criteo_parquet
+    workflow.fit(train_ds)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/nvtabular/workflow/workflow.py", line 213, in fit
+    self.executor.fit(dataset, self.graph)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 466, in fit
+    self.fit_phase(dataset, current_phase)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/dag/executors.py", line 541, in fit_phase
+    results = dask.compute(stats, scheduler="synchronous")[0]
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/base.py", line 665, in compute
+    results = schedule(dsk, keys, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/io/parquet/core.py", line 97, in __call__
+    return read_parquet_part(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/io/parquet/core.py", line 645, in read_parquet_part
+    dfs = [
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask/dataframe/io/parquet/core.py", line 646, in <listcomp>
+    func(
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/merlin/io/parquet.py", line 127, in read_partition
+    return CudfEngine.read_partition(fs, pieces, *args, **kwargs)
+  File "/home/yuzhuyu/miniconda3/envs/nvtabular/lib/python3.9/site-packages/dask_cudf/io/parquet.py", line 326, in read_partition
+    raise MemoryError(
+MemoryError: Parquet data was larger than the available GPU memory!
+
+See the notes on split_row_groups in the read_parquet documentation.
+
+Original Error: std::bad_alloc: out_of_memory: CUDA error at: /home/yuzhuyu/miniconda3/envs/nvtabular/include/rmm/mr/device/cuda_memory_resource.hpp
+
+
