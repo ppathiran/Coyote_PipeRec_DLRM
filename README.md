@@ -1,4 +1,4 @@
-# Coyote_PipeRec_DLRM
+#  FPGA-GPU Training System for Recommender Models
 
 This repository contains the implementation and integration of FPGA-based preprocessing with Meta's Deep Learning Recommendation Model (DLRM) using the Coyote framework.  
 The goal of this project is to accelerate data preprocessing on FPGA and seamlessly transfer preprocessed data to the GPU for efficient DLRM training.
