@@ -8,8 +8,7 @@ This repository contains the implementation and integration of FPGA-based prepro
   - AMD GPU with HIP support (tested on gfx90a architecture)  
   - Xilinx U55C FPGA device  
 - **Software:**  
-  - AMD-compatible PyTorch (tested with PyTorch built for AMD GPUs)  
-  - Linux environment (tested on the HACC cluster `hacc-box` machines)  
+  - AMD-compatible PyTorch
   - HIP development tools (hipcc compiler)  
   - CMake  
   - pybind11 Python bindings  
