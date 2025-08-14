@@ -36,7 +36,7 @@ mkdir build_hw && cd build_hw
 cmake ../ -DFDEV_NAME=u55c
 make project && make bitgen
 ```
-The bitstream will be available in the build_hw/bitstreams/ folder.
+The bitstream will be available in the `build_hw/bitstreams/` folder.
 
 
 ### Step 2: Build and insert the FPGA driver
@@ -59,7 +59,7 @@ cd Coyote/examples/11_preprocess_dlrm/sw/pointer_to_tensor
 export LD_LIBRARY_PATH=/usr/local/lib/python3.10/dist-packages/torch/lib:$LD_LIBRARY_PATH
 python3 setup.py build_ext --inplace
 ```
-This produces a .so shared object file inside the pointer_to_tensor folder.
+This produces a `.so` shared object file inside the pointer_to_tensor folder.
 
 
 ### Step 4: Compile the FPGA preprocessing software interface
@@ -73,7 +73,7 @@ export CXX=hipcc
 cmake ../ -DEN_GPU=1 -DAMD_GPU=gfx90a -Dpybind11_DIR=$(python3 -m pybind11 --cmakedir)
 make
 ```
-This creates a shared library .so file in the build folder.
+This creates a shared library `.so` file in the build folder.
 
 
 ### Step 5: Program the FPGA with the bitstream and driver
