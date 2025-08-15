@@ -1,6 +1,6 @@
 #  FPGA-GPU Training System for Recommender Models
 
-This repository contains the implementation and integration of FPGA-based preprocessing with Meta's Deep Learning Recommendation Model (DLRM) using the Coyote framework. The goal of this project is to accelerate data preprocessing on FPGA and directly transfer preprocessed data to the GPU for efficient DLRM training.
+This repository contains the implementation and integration of FPGA-based preprocessing with Meta's [Deep Learning Recommendation Model (DLRM)](https://github.com/facebookresearch/dlrm/tree/main) using the [Coyote](https://github.com/fpgasystems/Coyote/tree/software-cleanup) framework. The goal of this project is to accelerate data preprocessing on FPGA and directly transfer preprocessed data to the GPU for efficient DLRM training.
 
 ## Requirements
 
