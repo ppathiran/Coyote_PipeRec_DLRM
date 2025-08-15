@@ -95,3 +95,15 @@ Start the DLRM training benchmark configured to use the FPGA preprocessing pipel
 cd DLRM/dlrm/bench
 bash dlrm_fpga_preproc_AMD.sh
 ```
+
+---
+
+## License
+
+This repository contains code from two projects, each covered by their own MIT License:
+
+- **Coyote framework components** — Copyright (c) 2022 FPGA @ Systems Group, ETH Zurich  
+- **Meta's DLRM components** — Copyright (c) Facebook, Inc. and its affiliates  
+
+The full license texts are provided in the [`LICENSE`](LICENSE) file.
+
