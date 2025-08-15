@@ -19,6 +19,7 @@ This repository contains the implementation and integration of FPGA-based prepro
 
 - `Coyote/` — Contains the FPGA preprocessing hardware design, drivers, and software interfaces based on the Coyote framework.  
 - `DLRM/` — Contains the adapted DLRM codebase configured to use the FPGA-preprocessed data for training.
+- `Measurements/` — Contains performance measurements (single-run) for the baseline CPU–GPU pipeline and the proposed FPGA–GPU pipeline.
 
 
 ## Compilation and Setup Steps
