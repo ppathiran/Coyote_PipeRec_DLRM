@@ -31,7 +31,7 @@ Compile the FPGA hardware preprocessing pipeline bitstream for the U55C device.
 This step synthesizes the FPGA design and generates the bitstream file.
 
 ```bash
-cd Coyote/examples/09_preprocess/hw
+cd Coyote/examples/11_preprocess_dlrm/hw
 mkdir build_hw && cd build_hw
 cmake ../ -DFDEV_NAME=u55c
 make project && make bitgen
