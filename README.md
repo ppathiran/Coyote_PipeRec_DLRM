@@ -96,8 +96,6 @@ cd DLRM/dlrm/bench
 bash dlrm_fpga_preproc_AMD.sh
 ```
 
----
-
 ## License
 
 This repository contains code from two projects, each covered by their own MIT License:
