@@ -47,3 +47,4 @@ misc/
 *.d
 *.DS_Store
 *.venv
+*.log
