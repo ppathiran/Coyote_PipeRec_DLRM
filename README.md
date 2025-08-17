@@ -56,7 +56,7 @@ This wrapper exposes GPU pointer allocated by Coyote as Pytorch tensors.
 Important: Make sure to unset CXX environment variable before compiling to avoid build errors.
 
 ```bash
-cd Coyote/examples/11_preprocess_dlrm/sw/pointer_to_tensor
+cd Coyote/examples/11_preprocess_dlrm/pointer_to_tensor
 export LD_LIBRARY_PATH=/usr/local/lib/python3.10/dist-packages/torch/lib:$LD_LIBRARY_PATH
 python3 setup.py build_ext --inplace
 ```
