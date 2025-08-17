@@ -87,7 +87,7 @@ public:
 	// note: max. possible allocation is 4MiB, otherwise src_mem and dst_mem pointers will be in the same "window", 
 	// resulting in no FPGA output
 	unsigned int allocate_size = 4 * 1024 * 1024;
-        src_mem = static_cast<int *>(coyote_thread->getMem({coyote::CoyoteAlloc::GPU, allocate_size}));  
+        src_mem = static_cast<int *>(coyote_thread->getMem({coyote::CoyoteAlloc::HPF, allocate_size}));  
         dst_mem[0] = static_cast<int *>(coyote_thread->getMem({coyote::CoyoteAlloc::GPU, allocate_size})); 
         dst_mem[1] = static_cast<int *>(coyote_thread->getMem({coyote::CoyoteAlloc::GPU, allocate_size}));
 

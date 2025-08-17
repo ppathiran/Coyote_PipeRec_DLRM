@@ -22,7 +22,8 @@ cuda_arg="CUDA_VISIBLE_DEVICES=0"
 dlrm_pt_bin="python3 ../dlrm_s_pytorch.py" 
 
 # Define the list of mini-batch sizes to iterate over
-mini_batch_sizes=(4096 8192 16384 32768 65536)
+#mini_batch_sizes=(4096 8192 16384 32768 65536)
+mini_batch_sizes=(1024)
 
 # Define the list of num-workers values to iterate over
 num_workers_list=(16)

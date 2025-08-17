@@ -1489,7 +1489,7 @@ def run():
     tb_file = "./" + args.tensor_board_filename
     #writer = SummaryWriter(tb_file)
 
-    
+    train_times = []
     # ext_dist.barrier()
     with torch.autograd.profiler.profile(
         args.enable_profiling, use_cuda=use_gpu, record_shapes=True
@@ -1502,7 +1502,7 @@ def run():
             while k < args.nepochs:
                  
                 for j, inputBatch in enumerate(train_ld):
-                      
+                    train_start = time.time()  
                     X, lS_o, lS_i, T, W, CBPP = unpack_batch(inputBatch)
  
                     # forward pass
@@ -1528,12 +1528,14 @@ def run():
 
                         optimizer.step()
                         lr_scheduler.step()
-
+                    train_end = time.time()
+                    train_times.append(train_end - train_start)
                 k += 1  # nepochs
             # if use_gpu:
             #     torch.cuda.synchronize()
             end_time = time.time()
             print("Time to train: ", end_time - start_time)
+            print("Time to train-only: ", sum(train_times))
  
 
     # profiling

@@ -23,9 +23,6 @@ mini_batch_sizes=(4096 8192 16384)
 # Define the list of num-workers values to iterate over
 num_workers_list=(16)
 
-original_file="/mnt/scratch/ppathiran/data/criteo_10gb.txt"
-preprocessed_file="/mnt/scratch/ppathiran/data/kaggleAdDisplayChallenge_processed.npz"
-
 # Loop over each mini-batch size
 for batch_size in "${mini_batch_sizes[@]}"; do
     echo "Running with mini-batch size: $batch_size"
@@ -39,8 +36,6 @@ for batch_size in "${mini_batch_sizes[@]}"; do
             echo "Iteration $i for mini-batch size $batch_size and num-workers $num_workers"
             
             # Command with the current batch size and num-workers
-	    #cmd="$cuda_arg $dlrm_pt_bin --arch-sparse-feature-size=16 --arch-mlp-bot="13-512-256-64-16" --arch-mlp-top="512-256-1" --data-generation=fpga --data-set=kaggle --raw-data-file=$original_file --processed-data-file=$preprocessed_file --loss-function=bce --round-targets=True --learning-rate=0.1 --print-freq=100 --print-time --mini-batch-size=${batch_size} --num-workers=${num_workers} --use-gpu $dlrm_extra_option"
-
 	    cmd="$cuda_arg $dlrm_pt_bin --arch-sparse-feature-size=16 --arch-mlp-bot="13-512-256-64-16" --arch-mlp-top="512-256-1" --data-generation=fpga --loss-function=bce --round-targets=True --learning-rate=0.1 --print-freq=100 --print-time --mini-batch-size=${batch_size} --num-workers=${num_workers} --use-gpu $dlrm_extra_option"
 
 	    echo $cmd

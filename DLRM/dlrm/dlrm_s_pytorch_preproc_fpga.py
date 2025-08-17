@@ -98,8 +98,19 @@ from tricks.md_embedding_bag import md_solver, PrEmbeddingBag
 from tricks.qr_embedding_bag import QREmbeddingBag
 
 # coyote
-sys.path.append("/mnt/scratch/ppathiran/Coyote_PipeRec/examples/11_preprocess_dlrm/sw/build/lib")
-sys.path.append("/mnt/scratch/ppathiran/Coyote_PipeRec/examples/11_preprocess_dlrm/pointer_to_tensor")
+import os
+
+current = os.path.abspath(os.path.dirname(__file__))
+while not os.path.exists(os.path.join(current, "Coyote")) and current != "/":
+    current = os.path.dirname(current)
+repo_root = current
+
+sw_lib_path = os.path.join(repo_root, "Coyote", "examples", "11_preprocess_dlrm", "sw", "build", "lib")
+ptr_tensor_path = os.path.join(repo_root, "Coyote", "examples", "11_preprocess_dlrm", "pointer_to_tensor")
+
+sys.path.append(sw_lib_path)
+sys.path.append(ptr_tensor_path)
+
 import fpga_p2p_pybind
 import wrap_ptr
 import threading
