@@ -56,7 +56,7 @@ This wrapper exposes GPU pointer allocated by Coyote as Pytorch tensors.
 Important: Make sure to unset CXX environment variable before compiling to avoid build errors.
 
 ```bash
-cd Coyote/examples/11_preprocess_dlrm/sw/pointer_to_tensor
+cd Coyote/examples/11_preprocess_dlrm/pointer_to_tensor
 export LD_LIBRARY_PATH=/usr/local/lib/python3.10/dist-packages/torch/lib:$LD_LIBRARY_PATH
 python3 setup.py build_ext --inplace
 ```
@@ -83,7 +83,7 @@ Load the generated bitstream onto the FPGA and insert the compiled driver module
 
 ```bash
 cd Coyote
-bash util/program_hacc_local.sh examples/09_preprocess/hw/build_hw/bitstreams/cyt_top.bit driver/coyote_driver.ko
+bash util/program_hacc_local.sh examples/11_preprocess_dlrm/hw/build_hw/bitstreams/cyt_top.bit driver/coyote_driver.ko
 ```
 
 
@@ -103,5 +103,5 @@ This repository contains code from two projects, each covered by their own MIT L
 - **Coyote framework components** — Copyright (c) 2022 FPGA @ Systems Group, ETH Zurich  
 - **Meta's DLRM components** — Copyright (c) Facebook, Inc. and its affiliates  
 
-The full license texts are provided in the [`LICENSE`](LICENSE) file.
+The full license texts are provided in the [`LICENSE`](LICENSE.md) file.
 
