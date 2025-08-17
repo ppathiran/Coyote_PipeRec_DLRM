@@ -103,5 +103,5 @@ This repository contains code from two projects, each covered by their own MIT L
 - **Coyote framework components** — Copyright (c) 2022 FPGA @ Systems Group, ETH Zurich  
 - **Meta's DLRM components** — Copyright (c) Facebook, Inc. and its affiliates  
 
-The full license texts are provided in the [`LICENSE`](LICENSE) file.
+The full license texts are provided in the [`LICENSE`](LICENSE.md) file.
 
