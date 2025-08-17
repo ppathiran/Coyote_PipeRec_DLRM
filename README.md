@@ -83,7 +83,7 @@ Load the generated bitstream onto the FPGA and insert the compiled driver module
 
 ```bash
 cd Coyote
-bash util/program_hacc_local.sh examples/09_preprocess/hw/build_hw/bitstreams/cyt_top.bit driver/coyote_driver.ko
+bash util/program_hacc_local.sh examples/11_preprocess_dlrm/hw/build_hw/bitstreams/cyt_top.bit driver/coyote_driver.ko
 ```
 
 
