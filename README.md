@@ -123,7 +123,7 @@ make
 This will build `test` (the RDMA server executable) inside `build_server/bin`.
 
 ### Step 6: Run the RDMA-enabled DLRM training with FPGA preprocessing
-1. Start the server:
+1. Start the server (on a separate node):
 ```bash
 cd Coyote/examples/12_preprocess_dlrm_rdma/sw/build_server
 bin/test
