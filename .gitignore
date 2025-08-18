@@ -48,3 +48,4 @@ misc/
 *.DS_Store
 *.venv
 *.log
+*.so
