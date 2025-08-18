@@ -122,7 +122,7 @@ make
 ```
 This will build `test` (the RDMA server executable) inside `build_server/bin`.
 
-### Step 4: Compile the FPGA preprocessing software interfaces
+### Step 6: Compile the FPGA preprocessing software interfaces
 1. Start the server:
 ```bash
 cd Coyote/examples/12_preprocess_dlrm_rdma/sw/build_server
