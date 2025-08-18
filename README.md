@@ -96,6 +96,48 @@ cd DLRM/dlrm/bench
 bash dlrm_fpga_preproc_AMD.sh
 ```
 
+## Compilation Instructions for RDMA Integration
+
+Follow all steps described in the main README, replacing references to `11_preprocess_dlrm` with `12_preprocess_dlrm_rdma`, **except for Step 4 and Step 6**, which are modified as follows:
+
+### Step 4: Compile the FPGA preprocessing software interfaces
+
+#### Step 4.1: Compile the client interface
+```bash
+cd Coyote/examples/12_preprocess_dlrm_rdma/sw
+mkdir -p build_client && cd build_client
+export CXX=hipcc
+cmake ../ -DEN_GPU=1 -DAMD_GPU=gfx90a -Dpybind11_DIR=$(python3 -m pybind11 --cmakedir)
+make
+```
+This creates a shared library `.so` file in the build folder.
+
+#### Step 4.2: Compile the server
+```bash
+cd Coyote/examples/12_preprocess_dlrm_rdma/sw
+mkdir -p build_server && cd build_server
+export CXX=hipcc
+cmake ../ -DINSTANCE=server -DEN_GPU=1
+make
+```
+This will build `test` (the RDMA server executable) inside `build_server/bin`.
+
+### Step 4: Compile the FPGA preprocessing software interfaces
+1. Start the server:
+```bash
+cd Coyote/examples/12_preprocess_dlrm_rdma/sw/build_server
+bin/test
+```
+
+2. Run the DLRM training (client):
+```bash
+cd DLRM/dlrm/bench
+bash dlrm_fpga_preproc_AMD.sh
+```
+
+**Note:** The experiments were performed on the ETH HACC cluster by running the server on the `hacc-box-01` node and the DLRM training on the `hacc-box-02` node. If using other machines, please update the server IP address in `Coyote/examples/12_preprocess_dlrm_rdma/sw/src/client/fpga_p2p_pybind.cpp`.
+
+
 ## License
 
 This repository contains code from two projects, each covered by their own MIT License:
