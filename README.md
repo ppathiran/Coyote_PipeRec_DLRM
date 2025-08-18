@@ -96,6 +96,13 @@ cd DLRM/dlrm/bench
 bash dlrm_fpga_preproc_AMD.sh
 ```
 
+## RDMA Integration Branch
+
+An experimental branch, `dlrm-rdma-integration`, contains an attempt to integrate RDMA-based data transfer between the FPGA and GPU. This branch explores direct GPU memory communication via the Coyote framework to potentially further reduce end-to-end latency.
+
+Please note that this integration is still under development and does not fully function at this stage. Specifically, the current implementation allows basic FPGA-to-GPU data transfer via RDMA, but integration with the DLRM training pipeline is incomplete, and certain memory management aspects (e.g., proper GPU memory pointer handling) may lead to runtime errors once the first batch is being processed.
+
+
 ## License
 
 This repository contains code from two projects, each covered by their own MIT License:
