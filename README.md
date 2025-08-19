@@ -97,7 +97,7 @@ bash dlrm_fpga_preproc_AMD.sh
 ```
 
 ## Additional Information
-To run the baseline CPU-GPU pipeline, follow the instructions mentioned in ['DLRM README'](DLRM/README.md).
+To run the baseline CPU-GPU pipeline, follow the instructions mentioned in [`DLRM README`](DLRM/README.md).
 
 ## RDMA Integration Branch
 
