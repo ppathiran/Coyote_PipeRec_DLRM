@@ -1674,7 +1674,7 @@ def run():
             total_slice_time = sum(train_data.slice_times)
             print(f"Total time to slice:                    {total_slice_time:.6f} s")
 
-            print("\nTime to train:                         ", end_time - start_time)
+            print("\nTime to train/End-to-end latency:      ", end_time - start_time)
 
 
     # profiling
