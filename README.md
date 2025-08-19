@@ -137,6 +137,8 @@ bash dlrm_fpga_preproc_AMD.sh
 
 **Note:** The experiments were performed on the ETH HACC cluster by running the server on the `hacc-box-01` node and the DLRM training on the `hacc-box-02` node. If using other machines, please update the server IP address in `Coyote/examples/12_preprocess_dlrm_rdma/sw/src/client/fpga_p2p_pybind.cpp`.
 
+## Additional Information
+To run the baseline CPU-GPU pipeline, follow the instructions mentioned in [`DLRM README`](DLRM/README.md).
 
 ## License
 
