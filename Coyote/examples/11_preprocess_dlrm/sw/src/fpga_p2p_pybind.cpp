@@ -84,8 +84,8 @@ public:
 
         coyote_thread = std::make_unique<coyote::cThread<std::any>>(DEFAULT_VFPGA_ID, getpid(), 0);
 
-	// note: max. possible allocation is 4MiB, otherwise src_mem and dst_mem pointers will be in the same "window", 
-	// resulting in no FPGA output
+	// note: max. possible allocation is 4MiB, otherwise the allocated GPU buffer regions 
+	// will be in the same "window", resulting in invalid FPGA output
 	unsigned int allocate_size = 4 * 1024 * 1024;
         src_mem = static_cast<int *>(coyote_thread->getMem({coyote::CoyoteAlloc::HPF, allocate_size}));  
         dst_mem[0] = static_cast<int *>(coyote_thread->getMem({coyote::CoyoteAlloc::GPU, allocate_size})); 
